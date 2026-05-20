@@ -5,7 +5,7 @@ Production storyboard tool for the **DEF Gala 2026** fundraising film, *Lunch An
 
 This repo is the source of truth for the worker. It was reverse-captured from the
 
-## 🎬 Working on the film? → [docs/START-HERE.md](docs/START-HERE.md)
+## 🎬 Working on the film? → **[docs/WAKE-UP.md](docs/WAKE-UP.md)** (read first), then [docs/START-HERE.md](docs/START-HERE.md)
 Single entry point for the Lunch Angels gala film (story, script, locked style, characters). Read it first.
 
 deployed Cloudflare Worker on 2026-05-19 — previously the code existed only on the

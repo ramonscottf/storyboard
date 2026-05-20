@@ -1,3 +1,5 @@
+> 👋 New here? Read **WAKE-UP.md** first — it's the 6-step getting-started. This file is the detailed map.
+
 # START HERE — Lunch Angels (DEF Gala 2026 film)
 
 *Handoff written 2026-05-20. This is the single entry point. Read this first, then the 4 live docs it points to. Ignore anything marked SUPERSEDED.*
