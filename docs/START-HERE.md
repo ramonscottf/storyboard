@@ -26,6 +26,9 @@
 - Tools in play: Storyboard Studio (spine), Character X-Ray (lock consistency), Story Sketch (rough shots). Generate on **Nano Banana Pro**.
 - Style dropdown must be set to Storybook/Custom, NOT 3D-Animation.
 
+## Queued build: the Play Mode player
+**PLAYER-SPEC.md** — full-screen iOS-style animatic player for the storyboard (play/pause/scrub, VO captions, auto-advance). This is the first worker code-edit + first prod deploy from the repo. Scott asked for it 2026-05-20; build it with full context. Either do this first or the character rebuild first — Scott's call.
+
 ## The immediate next action
 Rebuild characters ONE AT A TIME, locked, starting with **Mateo** as the eye-style template, then Man → Boy (match Man) → Doug → Giving Machines. Mateo's full paste block is in FLOW-STYLE-LOCK-v3.md. Test each: simple small cartoon eyes like the reference short, not anime.
 
