@@ -4,3 +4,11 @@ node_modules/
 *.log
 worker_raw.txt
 data_*.json
+
+# scratch scripts & D1 dumps (never commit)
+apply.py
+chars.py
+restyle.py
+shots*.json
+verify.json
+*.tmp
