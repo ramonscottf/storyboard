@@ -124,7 +124,7 @@
       "description": "Extreme close-up on the man's face. Something has just landed inside him. Nothing dramatic \u2014 just a small change behind the eyes. We don't know yet what he's remembering. We only know he's somewhere else for a moment.",
       "chatgpt_prompt": "Ingredients: BG STYLE \u2014 Wet Street Bokeh + CHAR STYLE \u2014 Man Close-Up. THIS IS THE EMOTIONAL HERO SHOT.\n\nFRAMING: Extreme close-up on the man's face. Fills right two-thirds of frame. Background fully out of focus \u2014 pure soft watercolor wash.\n\nSHOT: THE MAN's face \u2014 real-proportioned head with cartoon face detail. Small cartoon dot-eyes with one bright tiny catchlight (the catchlight does the emotional work). NO realistic iris, NO eye anatomy, NO tear ducts. Peach skin with two soft round cheek blushes. Eyebrows as confident dark ink strokes, slightly raised. Mouth as a single soft curve \u2014 almost smiling, almost about to break. Grey beanie, dark olive coat with plaid flannel collar. Behind him completely soft: warm amber bokeh of string lights against lavender-blue snowy sky \u2014 pure impressionist watercolor wash with paper grain. Snow falling between him and camera. Warm yellow-amber memory tone. Get the expression right \u2014 this is the moment the story turns.\n\nSTYLE: Soft impressionist watercolor BACKGROUND (heavy paper grain, deckled edges, atmospheric falling snow, glowing lights, wet pavement reflections, lavender-blue or warm-cream tones, dark silhouetted background figures clearly human-proportioned but no faces). Plus REALISTICALLY PROPORTIONED CHARACTERS with cartoon face detail (clean ink lines, flat washes, SMALL CARTOON DOT-EYES with one tiny bright catchlight, no realistic iris, peach skin with one round cheek blush, hair/beards as soft wash shapes, mouths as single curved lines). Real-shaped bodies, cartoon faces \u2014 never half-half, the face commits fully. Giving Machines (where shown) must use the official Light the World GIVING MACHINES branding \u2014 cherry-red, official wordmark, real iconography. 3:2 landscape.",
       "flow_motion_prompt": null,
-      "notes": "THE EMOTIONAL HERO SHOT. The line lands gently \u2014 almost to himself. The catchlight in the eye does the heavy lifting. No tears, no theatrics. Just a man who suddenly remembers being eight years old at a cafeteria table.",
+      "notes": "THE EMOTIONAL HERO SHOT. The line lands gently \u2014 almost to himself. The catchlight in the eye does the heavy lifting. No tears, no theatrics. Just a man who suddenly remembers being eight years old at a cafeteria table.  // 2026-05-19: hard cut to flashback (#7) lands on this line.",
       "character_refs": "angel",
       "status": "pending",
       "winner_image_key": "1777579382992-9c9d6545.jpg",
@@ -132,14 +132,37 @@
       "end_frame_key": null,
       "candidate_keys": "[\"1777579380790-627af85e.jpg\",\"1777579382992-9c9d6545.jpg\",\"1777579384698-0a9d227b.jpg\"]",
       "updated_at": 1777585107,
-      "updated_by": "sfoster@dsdmail.net",
+      "updated_by": "skippy",
       "video_candidate_keys": null,
       "winner_video_key": null,
-      "vo_quote": "Someone did that for me when I was a kid.",
+      "vo_quote": "Somebody did that for me once.",
       "vo_who": "The man (quiet)"
     },
     {
       "id": 7,
+      "title": "The Boy \u2014 Flashback (1980s)",
+      "time_code": "0:43\u20130:46",
+      "shot_type": "scene",
+      "aspect": "3:2",
+      "description": "FLASHBACK \u2014 what the man is remembering, shown not told. Hard cut from the man's face (#6). Same composition as Mateo's table (Movement II) \u2014 a boy alone at the end of a cafeteria table \u2014 but a lunch tray slides IN from off-frame. The boy looks up. Hold one beat on his hazel eyes \u2014 the SAME eyes as the man at the machines \u2014 then cut back. This is the seed of the loop.",
+      "chatgpt_prompt": "Ingredients: CHAR STYLE \u2014 Boy in Cafeteria (1980s memory). THE KEYSTONE FLASHBACK \u2014 what the man is remembering, shown not told. Hard cut from the man's face.\n\nFRAMING: Wide-medium, the SAME composition as Mateo's table shot \u2014 a boy alone at the end of a long cafeteria table \u2014 but here a lunch tray is sliding IN from the frame edge. We do not see who places it. The boy looks up.\n\nSHOT: THE BOY \u2014 8\u20139 years old, brown hair, warm HAZEL dot-eyes with one bright catchlight \u2014 the SAME eyes we just saw on the man (that is the entire point). Real-proportioned child body, cartoon face: peach skin with one round cheek blush, hair as soft brown wash, mouth a small soft curve just beginning to open into relief. Slightly oversized hand-me-down shirt. 1980s cafeteria detail: pale institutional tile, a beige molded plastic tray sliding in, a small carton of milk, soft golden fluorescent warmth. Other kids in dark soft silhouette, no faces. WARM YELLOW-AMBER MEMORY TONE \u2014 sepia-warm, matching the village palette of Movement I, NOT the brighter present-day cafeteria.\n\nSTYLE: Soft impressionist watercolor BACKGROUND (heavy paper grain, deckled edges, atmospheric particles, glowing lights, wet reflections, warm-cream or lavender tones, dark silhouetted background figures human-proportioned but no faces). Plus REALISTICALLY PROPORTIONED CHARACTERS with cartoon face detail (clean ink lines, flat washes, SMALL CARTOON DOT-EYES with one tiny bright catchlight, no realistic iris, peach skin with one round cheek blush, hair/beards as soft wash shapes, mouths as single curved lines). Real-shaped bodies, cartoon faces \u2014 never half-half, the face commits fully. 3:2 landscape.",
+      "flow_motion_prompt": "",
+      "notes": "KEYSTONE (decision locked 2026-05-19). ~3\u20134 sec, lives inside the Recognition beat so runtime barely moves. Warm-yellow MEMORY tone to match Movement I. The tray ARRIVES here (the boy gets fed) \u2014 it rhymes against Mateo's EMPTY space, where no tray has come yet. Eyes must match the man (#6) and pay off at the loop (#23).",
+      "character_refs": "The Boy \u2014 Flashback (1980s)",
+      "status": "pending",
+      "winner_image_key": null,
+      "start_frame_key": null,
+      "end_frame_key": null,
+      "candidate_keys": null,
+      "updated_at": 1779000000000,
+      "updated_by": "skippy",
+      "video_candidate_keys": null,
+      "winner_video_key": null,
+      "vo_quote": null,
+      "vo_who": null
+    },
+    {
+      "id": 8,
       "title": "He Walks Away",
       "time_code": "0:46\u20130:52",
       "shot_type": "scene",
@@ -162,7 +185,7 @@
       "vo_who": ""
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Boots in the Snow",
       "time_code": "0:52\u20130:58",
       "shot_type": "scene",
@@ -185,7 +208,7 @@
       "vo_who": ""
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "The Bill",
       "time_code": "0:58\u20131:04",
       "shot_type": "scene",
@@ -208,7 +231,7 @@
       "vo_who": "The man"
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "Doug's Reaction",
       "time_code": "1:04\u20131:10",
       "shot_type": "scene",
@@ -231,7 +254,7 @@
       "vo_who": "Doug"
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "The Pause",
       "time_code": "1:10\u20131:16",
       "shot_type": "scene",
@@ -254,7 +277,7 @@
       "vo_who": ""
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "Let's Get Two",
       "time_code": "1:16\u20131:24",
       "shot_type": "scene",
@@ -277,7 +300,7 @@
       "vo_who": "The man"
     },
     {
-      "id": 13,
+      "id": 14,
       "title": "Walking Into the Light",
       "time_code": "1:24\u20131:32",
       "shot_type": "scene",
@@ -293,14 +316,14 @@
       "end_frame_key": null,
       "candidate_keys": "[\"1777579603563-14ae3dc6.jpg\",\"1777579605749-d4983c5e.jpg\",\"1777579607438-1924575e.jpg\"]",
       "updated_at": 1777585107,
-      "updated_by": "sfoster@dsdmail.net",
+      "updated_by": "skippy",
       "video_candidate_keys": null,
       "winner_video_key": null,
-      "vo_quote": "He walked back into the night, and we never knew his name.",
+      "vo_quote": "He walked back into the night, and we never learned his name.",
       "vo_who": "Narrator V.O."
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "Transition \u2014 From Then to Now",
       "time_code": "1:32\u20131:38",
       "shot_type": "comp",
@@ -308,7 +331,7 @@
       "description": "The warm yellow lamplight of the village dissolves into the warm yellow morning sun of a Davis County school cafeteria. Same color, different decade. Same story, different child.",
       "chatgpt_prompt": "NO AI GENERATION NEEDED \u2014 The warm yellow lamplight of the village dissolves into the warm yellow morning sun of a Davis County school cafeteria. Same color, different decade. Same story, different child.",
       "flow_motion_prompt": null,
-      "notes": "TYPOGRAPHY/COMP TRANSITION \u2014 built in After Effects. Cross-dissolve from the warm bokeh of the village exterior to warm bokeh of cafeteria windows. Same color palette, different setting. The film transitions from sepia-warm memory to brighter, more saturated present.",
+      "notes": "TYPOGRAPHY/COMP TRANSITION \u2014 built in After Effects. Cross-dissolve from the warm bokeh of the village exterior to warm bokeh of cafeteria windows. Same color palette, different setting. The film transitions from sepia-warm memory to brighter, more saturated present.  // 2026-05-19: dissolve now also rhymes the BOY's FULL tray (flashback #7) into Mateo's EMPTY space \u2014 same framing, tray vs no-tray.",
       "character_refs": "angel",
       "status": "pending",
       "winner_image_key": "1777579623985-e26253a3.jpg",
@@ -323,7 +346,7 @@
       "vo_who": "Narrator V.O."
     },
     {
-      "id": 15,
+      "id": 16,
       "title": "Mateo at the Table",
       "time_code": "1:38\u20131:48",
       "shot_type": "scene",
@@ -346,7 +369,7 @@
       "vo_who": "Narrator V.O."
     },
     {
-      "id": 16,
+      "id": 17,
       "title": "The Empty Space",
       "time_code": "1:48\u20131:56",
       "shot_type": "scene",
@@ -362,14 +385,14 @@
       "end_frame_key": null,
       "candidate_keys": null,
       "updated_at": 1777585107,
-      "updated_by": "system",
+      "updated_by": "skippy",
       "video_candidate_keys": null,
       "winner_video_key": null,
-      "vo_quote": "Mateo's family is behind on lunch payments. They want to stay invisible. So Mateo goes to school, and he doesn't eat.",
+      "vo_quote": "Mateo's family is behind. Not by much. By enough. They've decided \u2014 the way frightened people do \u2014 that it's safer for him to be hungry than seen. So he folds his hands, and waits out the lunch hour. He's good at it.",
       "vo_who": "Narrator V.O."
     },
     {
-      "id": 17,
+      "id": 18,
       "title": "The Other Kids",
       "time_code": "1:56\u20132:02",
       "shot_type": "scene",
@@ -377,7 +400,7 @@
       "description": "A wider shot of the cafeteria. Other children \u2014 also real-proportioned, also cartoon-faced \u2014 eating, talking, normal. Mateo small in the frame, alone, the only still figure.",
       "chatgpt_prompt": "Ingredients: ALL 6 refs.\n\nFRAMING: Wider shot of the cafeteria. Mateo small in left-third of frame, other students at other tables across the room.\n\nSHOT: Modern Davis County cafeteria, warm sunlit. 5-8 visible children of varied skin tones at other tables \u2014 real-proportioned bodies, cartoon faces with dot-eyes and catchlights \u2014 eating, talking quietly, normal. Mateo in the left third, alone at the end of a table, the only still figure in a room of motion. Warm cream walls, wood tables, soft sunlight from tall windows, watercolor paper grain. BRIGHTER PRESENT-TENSE COLOR \u2014 saturated, alive, but Mateo is the still point in the middle of it. The audience feels his isolation in a room full of warmth.\n\nSTYLE: Soft impressionist watercolor BACKGROUND (heavy paper grain, deckled edges, atmospheric falling snow, glowing lights, wet pavement reflections, lavender-blue or warm-cream tones, dark silhouetted background figures clearly human-proportioned but no faces). Plus REALISTICALLY PROPORTIONED CHARACTERS with cartoon face detail (clean ink lines, flat washes, SMALL CARTOON DOT-EYES with one tiny bright catchlight, no realistic iris, peach skin with one round cheek blush, hair/beards as soft wash shapes, mouths as single curved lines). Real-shaped bodies, cartoon faces \u2014 never half-half, the face commits fully. Giving Machines (where shown) must use the official Light the World GIVING MACHINES branding \u2014 cherry-red, official wordmark, real iconography. 3:2 landscape.",
       "flow_motion_prompt": null,
-      "notes": "Mateo is small in this frame on purpose. The audience should feel his isolation in a room full of warmth. The other kids are not background \u2014 they're cartoon-faced kids too, just not the focus.",
+      "notes": "Mateo is small in this frame on purpose. The audience should feel his isolation in a room full of warmth. The other kids are not background \u2014 they're cartoon-faced kids too, just not the focus.  // FACT-CHECK before final: confirm the \"one in seven / unpaid lunch balance\" figure for Davis County; swap in the real DEF number if different.",
       "character_refs": null,
       "status": "pending",
       "winner_image_key": null,
@@ -392,7 +415,7 @@
       "vo_who": "Narrator V.O."
     },
     {
-      "id": 18,
+      "id": 19,
       "title": "The Numbers",
       "time_code": "2:02\u20132:12",
       "shot_type": "comp",
@@ -408,14 +431,14 @@
       "end_frame_key": null,
       "candidate_keys": null,
       "updated_at": 1777585107,
-      "updated_by": "system",
+      "updated_by": "skippy",
       "video_candidate_keys": null,
       "winner_video_key": null,
-      "vo_quote": "$10 buys one week of school lunch. $40 buys a month. $360 buys a child a year of meals they would not otherwise eat.",
+      "vo_quote": "Ten dollars buys a week. Forty, a month. Three hundred sixty dollars buys a child a year of lunches they would not otherwise eat.",
       "vo_who": "On screen / Narrator"
     },
     {
-      "id": 19,
+      "id": 20,
       "title": "The Tray Arrives",
       "time_code": "2:12\u20132:20",
       "shot_type": "scene",
@@ -431,14 +454,14 @@
       "end_frame_key": null,
       "candidate_keys": null,
       "updated_at": 1777585107,
-      "updated_by": "system",
+      "updated_by": "skippy",
       "video_candidate_keys": null,
       "winner_video_key": null,
-      "vo_quote": "Lunch Angels are the people who quietly cover what a child can't.",
+      "vo_quote": "Somebody slides a tray in front of him. He doesn't see who. He never will. That's the point.",
       "vo_who": "Narrator V.O."
     },
     {
-      "id": 20,
+      "id": 21,
       "title": "Mateo Eats",
       "time_code": "2:20\u20132:28",
       "shot_type": "scene",
@@ -461,7 +484,7 @@
       "vo_who": "Narrator V.O."
     },
     {
-      "id": 21,
+      "id": 22,
       "title": "The Wide Pull-Back",
       "time_code": "2:28\u20132:38",
       "shot_type": "scene",
@@ -484,9 +507,32 @@
       "vo_who": "Narrator V.O."
     },
     {
-      "id": 22,
+      "id": 23,
+      "title": "The Loop \u2014 Three Faces",
+      "time_code": "2:38\u20132:46",
+      "shot_type": "comp",
+      "aspect": "3:2",
+      "description": "THE LOOP MADE EXPLICIT (decision locked 2026-05-19). A three-beat match-cut built in edit from existing winners: Mateo mid-bite (now) \u2192 the Boy mid-relief (1980s flashback, #7) \u2192 the Man's face at the machines (#6). Same framing, same hazel eyes, same mercy. Three kids who are the same kid. The hand that feeds is always off-frame \u2014 because the hand is the audience.",
+      "chatgpt_prompt": "EDIT COMP \u2014 no new image generated. Assemble from three locked stills: winner of #6 (the man's face), winner of #7 (the boy, flashback), winner of #21 (Mateo eats). Match-cut on the eyes; equalize warm tone across all three; fast rhyming triptych (~1.5\u20132 sec each). Image-only; no text.",
+      "flow_motion_prompt": "",
+      "notes": "Built in After Effects/Premiere from existing winners \u2014 depends on #7 still being generated first. Leads straight into the end card (#24).",
+      "character_refs": "Mateo, The Boy \u2014 Flashback (1980s), The Lunch Angel \u2014 The Stranger",
+      "status": "pending",
+      "winner_image_key": null,
+      "start_frame_key": null,
+      "end_frame_key": null,
+      "candidate_keys": null,
+      "updated_at": 1779000000000,
+      "updated_by": "skippy",
+      "video_candidate_keys": null,
+      "winner_video_key": null,
+      "vo_quote": null,
+      "vo_who": null
+    },
+    {
+      "id": 24,
       "title": "Be the Someone",
-      "time_code": "2:38\u20133:00",
+      "time_code": "2:46\u20133:00",
       "shot_type": "comp",
       "aspect": "3:2",
       "description": "End card. Cream watercolor background. The single line the entire film has been building toward, in deep red elegant serif. Below it: the URL where viewers go to give.",
@@ -508,18 +554,6 @@
     }
   ],
   "characters": [
-    {
-      "id": "doug",
-      "name": "Doug \u2014 The Volunteer",
-      "description": "Doug \u2014 older volunteer at the Giving Machines, late 60s. White short-cropped beard, grey wool herringbone flat cap, tan canvas chore coat. Kind eyes, calm presence.",
-      "image_key": "1777576343669-17ff08a9.jpg",
-      "updated_at": 1777583757,
-      "updated_by": "sfoster@dsdmail.net",
-      "chatgpt_prompt": "Ingredients: 3 BG STYLE refs (Wet Street Bokeh especially) + CHAR STYLE \u2014 Two-Shot.\n\nFRAMING: Hero portrait. Medium shot, three-quarter angle, Doug fills right two-thirds of frame against soft out-of-focus village background. 3:2 landscape.\n\nDOUG \u2014 late 60s volunteer at the Giving Machines. White short-cropped beard, grey wool herringbone flat cap pulled down, tan canvas chore coat with collar up against the cold. Kind warm eyes, gentle smile lines suggested but NOT drawn realistically. Calm confident presence \u2014 he's the helper who knows everyone needs help sometimes. Looking off-frame slightly, slight smile. Snow falling.\n\nSTYLE: Children's-book-illustration character \u2014 clean confident ink linework, simple flat watercolor washes, SMALL CARTOON DOT-EYES with single tiny catchlight (no realistic iris, no eye anatomy), peach skin with one round cheek blush per side, beard rendered as a single soft white wash shape (NOT individual hairs), eyebrows as confident grey ink strokes, mouth as a single curved line. Curious George / Studio Ghibli storybook quality. Background: soft impressionist watercolor of warm amber bokeh, lavender-blue snowy sky, falling snow \u2014 heavy paper grain, deckled edges. Doug is crisper than the painterly background. Three different angles/expressions across 4 generations.\n\nDO NOT: realistic skin pores, painted iris detail, individual beard hairs, photographic shading. He is a beloved storybook character \u2014 warm, simple, illustrated.",
-      "notes": "\ud83c\udfaf LOCK THIS CHARACTER FIRST \u2014 every Doug shot in the film references back to this portrait.\n\nYou may already have a usable Doug from your earlier Flow generations (the white-bearded man in the flat cap). If that image still feels right, save it as your locked Doug character sheet and skip generation.\n\nIf generating fresh:\n- Generate 4-6 variations\n- Pick the one whose face feels most paternal and trustworthy\n- Avoid versions where he looks stern, formal, or institutional\n- The right Doug looks like someone's actual grandfather, not a casting choice\n\nOnce locked, drag this image into every shot prompt that references \"DOUG character sheet\" \u2014 Flow and ChatGPT both lose face consistency without it.",
-      "candidate_keys": "[\"\",\"1777576343669-17ff08a9.jpg\",\"\",\"\"]",
-      "status": "locked"
-    },
     {
       "id": "angel",
       "name": "The Lunch Angel \u2014 The Stranger",
@@ -543,6 +577,18 @@
       "notes": "The boy must visually echo the Lunch Angel character (Shot 20 closes the match cut by dissolving the man into this boy).\n\nMatch these features to the Lunch Angel:\n- Same warm hazel eyes\n- Same high cheekbones\n- Same warm skin tone\n\nWhat you DON'T want:\n- The boy looking sad or pitiful (he's grateful, not suffering)\n- Heavy-handed 1980s costume (subtle period feel only)\n- The connection being too obvious (let audience feel it, not see it)\n\nOnce locked, drag this image into Shot 20's prompt. This is your only \"boy\" shot in the film, but you may want to generate 3-4 variations to find the right gratitude in his face.",
       "candidate_keys": null,
       "status": "pending"
+    },
+    {
+      "id": "doug",
+      "name": "Doug \u2014 The Volunteer",
+      "description": "Doug \u2014 older volunteer at the Giving Machines, late 60s. White short-cropped beard, grey wool herringbone flat cap, tan canvas chore coat. Kind eyes, calm presence.",
+      "image_key": "1777576343669-17ff08a9.jpg",
+      "updated_at": 1777583757,
+      "updated_by": "sfoster@dsdmail.net",
+      "chatgpt_prompt": "Ingredients: 3 BG STYLE refs (Wet Street Bokeh especially) + CHAR STYLE \u2014 Two-Shot.\n\nFRAMING: Hero portrait. Medium shot, three-quarter angle, Doug fills right two-thirds of frame against soft out-of-focus village background. 3:2 landscape.\n\nDOUG \u2014 late 60s volunteer at the Giving Machines. White short-cropped beard, grey wool herringbone flat cap pulled down, tan canvas chore coat with collar up against the cold. Kind warm eyes, gentle smile lines suggested but NOT drawn realistically. Calm confident presence \u2014 he's the helper who knows everyone needs help sometimes. Looking off-frame slightly, slight smile. Snow falling.\n\nSTYLE: Children's-book-illustration character \u2014 clean confident ink linework, simple flat watercolor washes, SMALL CARTOON DOT-EYES with single tiny catchlight (no realistic iris, no eye anatomy), peach skin with one round cheek blush per side, beard rendered as a single soft white wash shape (NOT individual hairs), eyebrows as confident grey ink strokes, mouth as a single curved line. Curious George / Studio Ghibli storybook quality. Background: soft impressionist watercolor of warm amber bokeh, lavender-blue snowy sky, falling snow \u2014 heavy paper grain, deckled edges. Doug is crisper than the painterly background. Three different angles/expressions across 4 generations.\n\nDO NOT: realistic skin pores, painted iris detail, individual beard hairs, photographic shading. He is a beloved storybook character \u2014 warm, simple, illustrated.",
+      "notes": "\ud83c\udfaf LOCK THIS CHARACTER FIRST \u2014 every Doug shot in the film references back to this portrait.\n\nYou may already have a usable Doug from your earlier Flow generations (the white-bearded man in the flat cap). If that image still feels right, save it as your locked Doug character sheet and skip generation.\n\nIf generating fresh:\n- Generate 4-6 variations\n- Pick the one whose face feels most paternal and trustworthy\n- Avoid versions where he looks stern, formal, or institutional\n- The right Doug looks like someone's actual grandfather, not a casting choice\n\nOnce locked, drag this image into every shot prompt that references \"DOUG character sheet\" \u2014 Flow and ChatGPT both lose face consistency without it.",
+      "candidate_keys": "[\"\",\"1777576343669-17ff08a9.jpg\",\"\",\"\"]",
+      "status": "locked"
     },
     {
       "id": "mateo",
@@ -610,7 +656,6 @@
   "comments": [],
   "_meta": {
     "exported": "2026-05-19",
-    "source": "D1 storyboard / Lunch Angels",
-    "note": "Authored content snapshot. Images live in R2 (storyboard-images), not here."
+    "note": "Post story-map build: 24 shots incl flashback #7 + loop #23; VO lifted. Images in R2."
   }
 }

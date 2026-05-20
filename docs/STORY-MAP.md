@@ -69,6 +69,16 @@ The pull-back: Mateo is one figure in a room full of Mateos we never met. And th
 
 ---
 
+## Decisions — LOCKED 2026-05-19
+
+1. ✅ Flashback built as a SEEN beat — shot **#7**.
+2. ✅ Fear register: **evoke, never name**.
+3. ✅ Ending: **loop made explicit** — shot **#23** (three-face match-cut).
+
+*Build status: structure + VO lift applied to live D1 (24 shots). Next: generate #7 still → build #23 comp → write all motion prompts. See SHOTLIST.md.*
+
+<details><summary>(original decision prompts)</summary>
+
 ## Decisions for Scott (these change the shot list)
 
 1. **Add the flashback as a seen beat at #6?** (Recommend yes — it's the keystone. One new shot: 1980s cafeteria, tray slides in, boy's eyes, ~3–4 sec. New image to generate.)
@@ -76,3 +86,5 @@ The pull-back: Mateo is one figure in a room full of Mateos we never met. And th
 3. **Final beat:** make the loop explicit (visual rhyme Mateo → boy → man at the very end) — or keep it subtle and let the eyes do it once at #6 only?
 
 Lock these three and the rest is a full VO pass + generating the open Act-2 stills (#16–22) + writing the motion prompts (0/22) against this map.
+
+</details>
