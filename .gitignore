@@ -1,0 +1,6 @@
+node_modules/
+.wrangler/
+.dev.vars
+*.log
+worker_raw.txt
+data_*.json

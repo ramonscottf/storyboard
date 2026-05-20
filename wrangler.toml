@@ -1,0 +1,20 @@
+name = "storyboard"
+main = "worker.js"
+compatibility_date = "2024-12-01"
+
+# Lunch Angels storyboard — DEF Gala 2026
+# Deploy:  npx wrangler deploy
+# Secret:  npx wrangler secret put MAIL_TOKEN   (SkippyMail bearer for mail.fosterlabs.org/send)
+
+[[d1_databases]]
+binding = "DB"
+database_name = "storyboard-db"
+database_id = "790c1af9-b1ae-4bdb-9422-507c5eebaa8e"
+
+[[r2_buckets]]
+binding = "IMAGES"
+bucket_name = "storyboard-images"
+
+[[kv_namespaces]]
+binding = "SESSIONS"
+id = "95b6a4503c3a4d1f8c295c11573a5da4"
