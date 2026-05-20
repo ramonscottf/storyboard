@@ -1,3 +1,5 @@
+> ⚠️ PARTIALLY SUPERSEDED by FLOW-STYLE-LOCK-v3.md (2026-05-20). The figure-ground / two-layer principle here still holds, but the CHARACTER look described (cel/Ghibli) is replaced by v3's grounded-cartoon target. Use v3 for character render style.
+
 # Lunch Angels — Style Canon
 
 *Locked 2026-05-19. The one rule that governs every generated still.*

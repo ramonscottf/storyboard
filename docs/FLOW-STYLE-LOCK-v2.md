@@ -1,3 +1,5 @@
+> ⛔ SUPERSEDED by FLOW-STYLE-LOCK-v3.md (2026-05-20). v2 pushed BIG anime/Ghibli eyes — WRONG. v3 is the truth: grounded simple cartoon, smaller eyes. Do not follow this file.
+
 # Lunch Angels — LOCKED Character Style (Flow rebuild v2)
 
 *2026-05-19. The fix for eye-drift and style-drift. EVERY character uses the IDENTICAL style block below, verbatim. Generate on Nano Banana Pro. Style dropdown: Storybook.*

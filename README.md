@@ -4,6 +4,10 @@ Production storyboard tool for the **DEF Gala 2026** fundraising film, *Lunch An
 (school-lunch debt in Davis County). Live at **https://storyboard.daviskids.org**.
 
 This repo is the source of truth for the worker. It was reverse-captured from the
+
+## 🎬 Working on the film? → [docs/START-HERE.md](docs/START-HERE.md)
+Single entry point for the Lunch Angels gala film (story, script, locked style, characters). Read it first.
+
 deployed Cloudflare Worker on 2026-05-19 — previously the code existed only on the
 Cloudflare edge with no version control (classic deploy drift). Now fixed.
 
