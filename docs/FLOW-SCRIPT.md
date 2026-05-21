@@ -1,6 +1,6 @@
 # Lunch Angels — Flow Script (paste into Script tab)
 
-*Screenplay format for Google Flow Storyboard Studio. Generated from live D1, 2026-05-19. Set Style to match our painted-cel look, NOT 3D-Animation.*
+*Screenplay format for Google Flow Storyboard Studio. Set Style → Create custom style → "Lunch Angels Storybook" and paste Block A from FLOW-STYLE-LOCK-v4 (a preset will be wrong). Characters come from the locked Character sheets, NOT Storyboard Studio's auto-extract.*
 
 ```
 THE GIVING MACHINE
@@ -29,28 +29,19 @@ A few years ago, on a cold night in Ogden, a man walked up to the Giving Machine
 
 Three tall cherry-red GIVING MACHINES stand together, their illuminated faces glowing gold against the snow — rows of donation cards instead of snacks. They are the warm center of the square.
 
-DOUG, a kind man in his late sixties, white-bearded, in a flat cap and tan coat, stands beside the machines as a volunteer host.
+DOUG, a kind man in his late sixties, white-bearded, in a navy fur-collar parka, stands beside the machines as a volunteer host.
 
-A MAN approaches — 30s–40s, lean, an olive hoodie under an open coat, a blue backpack on his shoulders, light stubble. He carries himself carefully, like someone used to being looked at.
-
-
-THE MAN
-This one feeds a kid for a week. Ten dollars buys a child their school lunch.
+A MAN approaches — 30s–40s, lean, an olive hoodie under an open coat, a blue backpack on his shoulders, light stubble. He carries himself carefully, like someone used to being looked at. Doug gestures to one glowing card.
 
 
 DOUG
-Ten dollars feeds a kid for a whole week.
+This one feeds a kid for a week. Ten dollars buys a child their school lunch.
 
-The Man looks at the lit cards for a long moment. Then he nods once, turns, and walks away into the snow. Doug watches him go.
-
-
-EXT. GIVING MACHINES — MOMENTS LATER
-
-The Man comes back. He unfolds a creased twenty-dollar bill and holds it out.
+The Man looks at the lit card for a long moment. Something moves behind his eyes.
 
 
-THE MAN
-Let's get two, then. Somebody did this for me.
+THE MAN (quiet)
+Somebody did that for me once.
 
 
 INT. CAFETERIA (1980s) — FLASHBACK — DAY
@@ -62,9 +53,26 @@ MATCH CUT TO:
 
 The Man at the machines — the same olive top, the same blue backpack on his shoulder. He was that boy.
 
+He turns and walks away into the snow. Doug watches him go.
 
-NARRATOR (V.O.)
-Somebody did that for me once.
+
+EXT. GIVING MACHINES — MOMENTS LATER
+
+The Man comes back. He unfolds a creased twenty-dollar bill and holds it out.
+
+
+THE MAN
+I want to buy the lunches. Will you take cash?
+
+
+DOUG
+I'm sorry — I don't have change for a twenty.
+
+A beat. The Man looks at the bill, then up at the glowing machine.
+
+
+THE MAN
+Let's get two, then. Somebody did this for me.
 
 The Man walks into the lights of the square and is gone.
 
