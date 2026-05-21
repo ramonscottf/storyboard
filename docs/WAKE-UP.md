@@ -6,10 +6,11 @@ Hey. It's past-you. Scott's working on **Lunch Angels** — the animated fundrai
 Read these, in this order, and you'll know everything:
 1. `docs/START-HERE.md` ← the map. Read it fully.
 2. `docs/STORY-MAP.md` ← the story (one loop, three kids who are the same kid).
-3. `docs/FLOW-STYLE-LOCK-v3.md` ← THE look. Grounded cartoon people + cinematic worlds. NOT anime.
-4. `docs/CHARACTERS.md` ← the 5 characters.
+3. `docs/FLOW-STYLE-LOCK-v4.md` ← THE look (supersedes v3). Clean 2D CEL CHARACTERS on top of loose WATERCOLOR worlds — two layers, contrast in forms. Characters are NOT watercolor; backgrounds ARE.
+4. `docs/FLOW-PIPELINE.md` ← how it's assembled: machines-as-asset, multi-angle plates, era mapping.
+5. `docs/CHARACTERS.md` ← the 5 characters + build status + paste-ready prompts.
 
-Ignore any file stamped **SUPERSEDED** at the top (FLOW-STYLE-LOCK-v2, the STYLE-CANON character look). They're kept for history only.
+Ignore any file stamped **SUPERSEDED** at the top (FLOW-STYLE-LOCK-v2, FLOW-STYLE-LOCK-v3, the STYLE-CANON character look). They're kept for history only.
 
 ## 2. Know where things live
 - **Repo `ramonscottf/storyboard`** = source of truth (this repo). Worker code + all film docs.
@@ -18,14 +19,14 @@ Ignore any file stamped **SUPERSEDED** at the top (FLOW-STYLE-LOCK-v2, the STYLE
 - **The film content** (24 shots, 5 characters) lives in that D1. `content-backup.json` is the committed snapshot.
 
 ## 3. The two builds waiting (Scott picks which first)
-**A) Character rebuild in Google Flow** — rebuild characters ONE AT A TIME, locked, starting with Mateo as the eye-style template, then Man → Boy (match Man's hazel) → Doug → Giving Machines. Paste blocks are in FLOW-STYLE-LOCK-v3.md. Generate on Nano Banana Pro. Test each: simple small cartoon eyes like the Church short "A Shower of Heavenly Blessings," NOT anime. Flow project is a fresh blank "Untitled Story" — that's intentional.
+**A) Finish the cast in Google Flow.** LOCKED already: Mateo, Doug, the Giving Machines asset, the watercolor village (multi-angle), both cafeterias. NEXT: build **The Boy** off the Man's face (same hazel eyes) — paste prompt in CHARACTERS.md — then soften **The Man** (he tips toward pity; lose the patches). Style/style-blocks live in FLOW-STYLE-LOCK-v4.md; pipeline in FLOW-PIPELINE.md. Built in Flow's native Characters builder, Nano Banana 2, one at a time.
 
 **B) Play Mode player** — `docs/PLAYER-SPEC.md`. Full-screen iOS-style animatic player on the storyboard (play/pause/scrub, VO captions, auto-advance). ⚠️ This is the FIRST time editing `worker.js` + the FIRST `wrangler deploy` from this repo. Do it carefully with a verify loop. MAIL_TOKEN secret is already set, so deploy is behavior-identical except the new player.
 
 Ask Scott which he wants first (tappable options). Don't start both.
 
 ## 4. The rules that bit us last time (don't repeat)
-- **Style: grounded cartoon, NOT anime.** We drifted to big Ghibli eyes twice. Smaller, simpler eyes. If unsure, have Scott upload a frame from the Church short as a Flow style reference — an image teaches it better than words.
+- **Style: cel characters on watercolor worlds (v4), NOT anime, characters NOT watercolor.** We drifted to big anime eyes AND to watercolor-ing the characters. Smaller simple eyes; characters stay crisp cel on top of soft paint. If a character won't match, attach the locked Mateo sheet as a reference — an image teaches it better than words.
 - **One character at a time.** Lock it, eyeball the eyes, THEN move on. Don't batch — that's how the styles diverged.
 - **The Man & Boy share hazel eyes** — that recognition is the engine of the film. Generate the Man first, match the Boy to him.
 - **No entrance animations / Ken Burns** on the player — Scott's "no Squarespace feel" rule. Gentle cross-dissolves only.
