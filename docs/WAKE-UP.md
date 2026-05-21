@@ -31,9 +31,8 @@ All five characters are built and locked in Google Flow:
 **Recognition = wardrobe + blue backpack, NOT eye color.** The Man and Boy share the olive top + blue pack + brown hair; that's the match-cut engine. Mateo is deliberately distinct.
 
 ## 4. What's left to build (next actions, in order)
-1. **#7 the flashback** (keystone) — composite: the Boy + old cafeteria plate + a TEAL tray sliding in. #23 depends on it.
-2. Old-cafeteria reshoot — drop the presidential-seal flag, strip decor for the lonely-boy beat.
-3. Tight isolating framings for #7, #17, #20, #21 (current cafeteria stills are busy wides; gut-punch beats need close frames).
+1. **#7 the flashback** (keystone) — composite: the Boy + old cafeteria plate (LOCKED, seal flag removed) + a TEAL tray sliding in, composed TIGHT (boy alone, empty table, negative space — not the busy wide). #23 depends on it.
+2. Tight isolating framings for #7, #17, #20, #21 (current cafeteria stills are busy wides; gut-punch beats need close frames).
 4. #23 three-face crops (Mateo / Boy / Man, relief).
 5. **Motion: 0/24 → Gemini Omni Flash** (identity/voice held, conversational). Score via **Flow Music / Lyria 3 Pro**. See FLOW-PIPELINE + FLOW-OMNI doc.
 

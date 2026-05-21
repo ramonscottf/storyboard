@@ -44,7 +44,7 @@ Mateo is present-day → modern cafeteria. The Boy is the 1980s flashback → ol
 
 ## Open production notes (2026-05-20)
 
-- **Old cafeteria:** drop the presidential-seal flag (reads federal-building, not a 1980s school); a plain US or state flag is enough. Strip decor back for the lonely-boy beat — let him breathe.
+- **Old cafeteria:** LOCKED 2026-05-21 — reshot with the presidential-seal flag removed (US flag only). It's an establishing wide; the lonely-boy keystone (#7) must still be composed TIGHT against it (boy alone, empty table, negative space), not cropped from the busy room.
 - **Modern cafeteria:** wall text is heavy and AI-garbled; fine for establishing wides, not for close-ups.
 - **Framing:** the gut-punch beats (lonely boy, tray sliding in) need tight isolating framings, not these busy establishing wides.
 - **Doug wardrobe:** two versions exist (tan cardigan; navy fur-collar parka). Pick the cardigan as base, the parka as his outdoor layer for the cold night-market scene.
@@ -61,7 +61,7 @@ Why it fits this film specifically:
 - **Image-to-video on our locked stills**: bring a finished still in as an ingredient, reference assets with `@`, blend the machines + character + plate into a moving shot.
 
 New finish order:
-1. Finalize the locked/needed STILLS (see SHOTLIST.md gaps — #7 flashback, old-caf reshoot sans seal-flag, tight isolating framings, #23 three-face crops).
+1. Finalize the locked/needed STILLS (see SHOTLIST.md / FLOW-SHOTS.md — #7 flashback, tight isolating framings, #23 three-face crops). Cafeterias + village + characters are LOCKED.
 2. Bring stills into Omni Flash as ingredients; direct motion conversationally, identity/voice held.
 3. Score in **Flow Music (Lyria 3 Pro)** — section-by-section under the VO. (Replaces the depleted ElevenLabs path for the music bed.)
 4. Assemble; VO (Narrator first, then Doug); SFX; end card.

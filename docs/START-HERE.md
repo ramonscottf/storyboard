@@ -31,14 +31,13 @@
 - **Style LOCKED** (v4): "Lunch Angels Storybook" custom style. Cel characters on watercolor worlds.
 - **Recast LOCKED:** Mateo = the red/rust-hoodie, green-pack, curly kid (his own kid, dark eyes). The Man (olive hoodie, blue backpack, light stubble) and the Boy (olive sweater, same blue backpack) are the same person — recognition carried by **wardrobe + the blue backpack, NOT eye color.**
 - **Built & locked characters:** Mateo, The Man, The Boy, Doug (cardigan + parka variant), the Giving Machines asset.
-- **Backgrounds:** full multi-angle watercolor village set; modern cafeteria (Mateo); old cafeteria (Boy) — old one needs a reshoot to drop the presidential-seal flag.
+- **Backgrounds LOCKED:** full multi-angle watercolor village set; modern cafeteria (Mateo, present); old cafeteria (Boy, 1980s) — reshot 2026-05-21 with the presidential-seal flag removed (US flag only). Both are establishing wides — the intimate beats (#7, #17, #20) need tight crops composed against them.
 - **Tray era cue locked:** teal = 1980s flashback, white/cream = present day.
 - **Motion: 0/24** — now routed through **Gemini Omni Flash** (see FLOW-PIPELINE.md + FLOW-OMNI doc). Score via Flow Music / Lyria 3 Pro.
 
 ## The immediate next actions (in order)
-1. Build **#7 the flashback** (the keystone) — composite from assets in hand: the Boy (sheet) + old cafeteria plate + a TEAL tray sliding in. #23 depends on it.
-2. Reshoot the old cafeteria minus the presidential-seal flag; strip decor for the lonely-boy beat.
-3. Generate the **tight isolating framings** for #7, #17, #20, #21 (current cafeteria stills are busy establishing wides; the gut-punch beats need close, quiet frames).
+1. Build **#7 the flashback** (the keystone) — composite from assets in hand: the Boy (sheet) + old cafeteria plate (locked) + a TEAL tray sliding in, composed TIGHT (boy alone, long empty table, lots of negative space — not the busy establishing wide). #23 depends on it.
+2. Generate the **tight isolating framings** for #7, #17, #20, #21 (current cafeteria stills are busy establishing wides; the gut-punch beats need close, quiet frames).
 4. #23 three-face crops (Mateo / Boy / Man, relief).
 5. Then → Omni Flash for motion, Lyria for score.
 
