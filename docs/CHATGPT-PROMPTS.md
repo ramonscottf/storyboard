@@ -1,6 +1,6 @@
 # Lunch Angels — ChatGPT image prompts (the generation workhorse)
 
-*Rewritten 2026-05-21 (v2 — SIMPLIFIED). Lesson learned generating #3: the attached sheets and plates already carry the entire look. Long style descriptions ("watercolor, cel-on-top, small eyes, NOT photoreal…") FIGHT the references and push the result off-model. **New rule: prompts describe ACTION + CAMERA + ERA LIGHT only. The attached images carry the style.** Workflow unchanged: stills = ChatGPT (GPT Pro), motion = Flow Omni (FLOW-SHOTS.md).*
+*Rewritten 2026-05-21 (v3 — CALIBRATED). The journey: v1 over-described and pushed results off-model; v2 stripped too far and frames went generic. The real lesson: what fought the references was the **style/medium language** ("watercolor, cel-on-top, small eyes, NOT photoreal/anime/3D"), NOT the scene detail. **v3 rule: describe the SCENE richly — staging, blocking, light, mood — but NEVER the look or medium. The attached sheets and plates carry the style; the words carry the moment.** Workflow unchanged: stills = ChatGPT (GPT Pro), motion = Flow Omni (FLOW-SHOTS.md).*
 
 ---
 
@@ -49,15 +49,13 @@
 
 ---
 
-## THE ONLY RULES (everything else, the images handle)
+## HOW TO WRITE THESE (the calibration)
+- **DO describe:** the action, the blocking (who is where, facing where), camera/framing, the light (warm machine-glow, cold blue night, soft snow, breath-fog / bright present-day daylight / warm sepia), and the emotional register (tender, still, hidden relief).
+- **DON'T describe:** the medium or rendering — no "watercolor / cel / small simple eyes / NOT photoreal / NOT anime." The attached images own that. If a result drifts off-style, fix the *attached reference*, not the words.
 - **Always say 16:9.**
-- **"Keep [character] exactly as the attached sheet"** — one short line, so it doesn't redraw them.
-- **Era light, in a few words:** night market = *cold blue winter night, warm glow*; flashback #7 = *warm sepia 1980s*; modern = *bright present-day daylight*.
-- **Hand off-frame** in #7 and #20 — never show who places the tray.
-- **Tray + wardrobe are handled by WHICH FILE you attach** — teal vs white tray, olive+blue Man/Boy vs red+green Mateo. Don't re-describe them.
-- **Machines ~15% to one side, not centered** (only worth saying on wide machine shots).
-- **#7 and #17 share a camera** (the match-frame) — say "same camera as #7/#17".
-- **Crowded, not empty** for the modern cafeteria — Mateo the only one in focus.
+- **One short anchor line:** "Keep [character] exactly as the attached sheet."
+- **Tray + wardrobe** are set by WHICH FILE you attach — don't re-describe them.
+- **Hand off-frame** in #7 and #20. **Machines ~15% to one side, not centered.** **#7 and #17 share a camera.** **Crowded, not empty** in the modern cafeteria.
 
 ---
 
@@ -66,49 +64,49 @@
 ### #3 · Doug at the Machines
 **Attach:** `Doug` + `Giving_Machine` + `Westside_1`
 ```
-16:9. Doug standing beside the row of three glowing red Giving Machines on the snowy cobblestone market street, breath fogging, warm light on the wet ground. Machines toward one side (~15% of frame), not centered. Cold blue winter night. Keep Doug and the machines exactly as the attached sheets.
+ONE 16:9 frame: Doug standing beside the row of three glowing red Giving Machines on a snowy cobblestone night-market street, his breath fogging, warm light pooling on the wet ground. The machines sit toward one side at about 15% of the frame, NOT centered; the market stalls, the lit tree, and string lights fill the rest of the square. Cold lavender-blue winter night, warm glow from the machines and stalls, soft falling snow. Tender, still, welcoming. Keep Doug and the machines exactly as the attached sheets.
 ```
 
 ### #4 · The Approach
 **Attach:** `The_MAN` + `Westside_Entrance` + `Giving_Machine`
 ```
-16:9. The Man seen from three-quarters behind, walking slowly toward the glowing red machines across the snowy market. Cold blue night, warm glow ahead. Keep the Man exactly as the sheet, blue backpack visible.
+ONE 16:9 frame: the Man seen from three-quarters BEHIND, walking slowly toward the glowing red Giving Machines across a snowy cobblestone market at night. He is in the mid-ground; the machines glow ahead toward the corner of the frame. Soft falling snow, breath-fog, string lights overhead, warm light pooled on the wet stone. Cold blue winter night, warm glow ahead drawing him in. Lonely but dignified, unhurried. Keep the Man exactly as the sheet, blue backpack visible.
 ```
 
 ### #5 · Two-Shot at the Machine
 **Attach:** `The_MAN` + `Doug` + `Giving_Machine` + `Eastside_1`
 ```
-16:9. Two-shot: Doug turned slightly toward the Man, gesturing to a card on the machine; the Man follows the gesture. Warm machine glow on both faces, cold night. Keep both exactly as their sheets.
+ONE 16:9 frame, a two-shot: Doug and the Man standing together at a glowing red machine. Doug is turned slightly toward the Man, gesturing to one donation card on the machine face; the Man follows the gesture with his eyes. Warm machine-glow lighting both their faces against the cold blue night, soft snow, breath-fog between them. Quiet, warm, equal — kinship, never pity. Keep both exactly as their sheets.
 ```
 
 ### #6 · The Recognition (the hinge into #7)
 **Attach:** `The_MAN` + `Eastside_1`
 ```
-16:9, tight on the Man's face and shoulders, three-quarter. His gaze lowers slightly — a quiet flicker of memory. Warm glow on one side, cold night on the other. Keep him exactly as the sheet; keep his eyes small and simple, not a teary close-up.
+ONE 16:9 frame, TIGHT on the Man's face and shoulders, three-quarter angle. He stands at the glowing machine; his gaze has lowered slightly and gone inward, a quiet flicker of memory crossing his face. Warm machine-glow on one side of his face, cold blue night on the other, soft blurred light behind him. Tender, still — a held breath, the moment before remembering. Keep him exactly as the sheet; keep his eyes small and calm, an inward moment, not a teary close-up.
 ```
 
 ### #10 · The Bill
 **Attach:** `The_MAN` + `_20` + `Doug` + `Eastside_1`
 ```
-16:9. The Man's hand extending the folded twenty toward Doug at the machine; the bill and the two figures in focus. Warm glow, cold night. Keep them as their sheets; keep the bill simple and folded.
+ONE 16:9 frame: the Man's hand extending a folded twenty-dollar bill toward Doug at the glowing machine; the offered bill and the two figures are the focus, the rest of the market soft behind. Warm machine glow, cold blue night, soft snow, breath-fog. A small, sincere offering. Keep them exactly as their sheets; keep the bill simple and folded, no fine currency detail.
 ```
 
 ### #11 · Doug's Reaction
 **Attach:** `Doug` + `Eastside_1`
 ```
-16:9 on Doug at the machine: a small apologetic look, a slight head-shake, patting his pocket — no change for a twenty. Warm glow, cold night. Keep Doug as the sheet.
+ONE 16:9 frame on Doug at the glowing machine: a small apologetic expression, a slight shake of the head, one hand patting his coat pocket — he has no change for a twenty. Warm machine glow, cold blue night, breath-fog. Kind and a little rueful, never cold. Keep Doug exactly as the sheet.
 ```
 
 ### #12 · The Pause
 **Attach:** `The_MAN` + `Giving_Machine` + `Eastside_1`
 ```
-16:9, fairly tight: the Man looking down at the folded bill, then up toward the machine — the beat before a decision. Warm glow, cold night. Keep him as the sheet.
+ONE 16:9 frame, fairly tight: the Man looking down at the folded bill in his hand, then up toward the glowing machine — the small, quiet beat where a decision forms. Warm machine glow, cold blue night, soft snow. Stillness, a turning-over of something. Keep him exactly as the sheet.
 ```
 
 ### #13 · Let's Get Two (the title line)
 **Attach:** `The_MAN` + `Doug` + `Giving_Machine` + `Eastside_1`
 ```
-16:9. The Man pressing the folded bill forward to Doug with quiet resolve; Doug receiving it. Warm glow on both, cold night. Keep them as their sheets.
+ONE 16:9 frame: the Man pressing the folded bill forward toward Doug with the faintest warm resolve — the title-line moment. Doug receiving it, meeting his eyes. Warm machine glow on both faces, cold blue night, soft snow. Quiet warmth and dignity, a small good thing done. Keep them exactly as their sheets.
 ```
 
 ---
@@ -116,7 +114,7 @@
 ## FLASHBACK — #7 · The Boy (1980s) · KEYSTONE
 **Attach:** `The_BOY` + `Teal_Tray` + `80s_School`
 ```
-16:9. Straight, slightly low view down a long cafeteria table; the boy at the near-left end, the table running away to the right. This is a MEMORY — the room falls away, sparse and dreamy, almost no other kids. He sits alone, backpack on, hands folded in his lap, looking at the empty table; a teal tray is just sliding into frame from the right edge, placed by no one we see (hand off-frame). Warm sepia 1980s light. Keep the boy and the tray as the sheets. Same camera as #17.
+ONE 16:9 frame. CAMERA: a straight, slightly low view looking down a long cafeteria table — the boy seated at the near-left end, the table running away to the right. Keep the room's permanent bones: windows on the LEFT wall, the serving line on the BACK wall, a utensil caddy in the FRONT-LEFT corner. This is a MEMORY: the room falls away — sparse, soft, dreamy, the far tables dissolving into warm haze, almost no other children visible. The boy sits alone, backpack on, hands folded in his lap, looking toward the empty table in front of him. A teal tray is just beginning to slide into frame from the right edge, held by no one we can see — never show the person or the hand. Warm sepia 1980s memory light. Intimate, still, lonely but dignified. Same camera as #17. Keep the boy and the tray exactly as the sheets.
 ```
 
 ---
@@ -126,43 +124,43 @@
 ### #1 · Cold Open
 **Attach:** `Mateo` + `Modern_School`
 ```
-16:9, very tight: just Mateo's folded hands in his lap at the edge of a table, soft light, the busy room blurred behind him. Present-day soft daylight. Keep Mateo as the sheet.
+ONE 16:9 frame, very tight and quiet: just Mateo's folded hands resting in his lap at the edge of a table, softly lit, the bright busy cafeteria blurred behind him. Intimate, almost abstract — the stillness of a kid making himself small. Present-day soft daylight. (May open on black with VO; this still is the fade-up target.) Keep Mateo exactly as the sheet.
 ```
 
 ### #16 · Mateo at the Table
 **Attach:** `Mateo` + `Modern_School`
 ```
-16:9. Mateo at a table in a full, busy cafeteria — kids all around eating and talking. Mateo is the only one in focus: backpack on, hands folding in his lap, eyes down; everyone else soft and slightly out of focus. Bright present-day daylight. Keep Mateo as the sheet.
+ONE 16:9 frame: Mateo at a table in a FULL, busy cafeteria — kids all around him eating and talking. Mateo is the one in focus: backpack on, hands folding in his lap, looking down, quiet and careful. Every other kid is softer, slightly out of focus, semi-silhouette — alive but not competing for attention. Bright, cool-clean, hopeful present-day daylight. A pocket of stillness amid the noise. Keep Mateo exactly as the sheet.
 ```
 
 ### #17 · The Empty Space (match-frame to #7)
 **Attach:** `Mateo` + `Modern_School`
 ```
-16:9. SAME camera as #7 — straight, slightly low, down a long table, the kid at the near-left end, table running to the right. Same room, remodeled, present day. Now the room is FULL; every other place has a tray. Mateo at the near-left end with the empty space in front of him, backpack on, hands folded, eyes down — the only one in focus, everyone else soft. Bright present-day daylight. Keep Mateo as the sheet.
+ONE 16:9 frame. CAMERA: the SAME composition as the 1980s flashback (#7) — a straight, slightly low view down a long table, the kid at the near-left end, the table running away to the right; windows on the LEFT, serving line on the BACK wall, utensil caddy in the FRONT-LEFT corner. This is the SAME ROOM, remodeled and present-day. But now the room is FULL: kids everywhere, every other place set with a lunch tray. Mateo sits at the near-left end with the empty space in front of him where a tray would be — backpack on, hands folded, eyes down. He is the ONLY one sharp and in focus; every other kid is soft, semi-silhouette, slightly out of focus — life happening around an island of stillness. Bright, cool-clean present-day daylight. Unseen in a full room — intimate, lonely, dignified. Keep Mateo exactly as the sheet.
 ```
 
 ### #18 · The Other Kids
 **Attach:** `Mateo` + `Modern_School`
 ```
-16:9, slightly wider: Mateo at his table, and a few other quiet kids in the crowd also sitting without trays. Keep Mateo findable (red hoodie); most kids soft and simplified. Bright present-day daylight.
+ONE 16:9 frame, a slightly wider view of the full room: Mateo at his table, and scattered through the crowd a few OTHER quiet kids also sitting without trays. Keep Mateo findable by his red hoodie. Most kids are soft, simplified, semi-silhouette — atmosphere; the few tray-less kids read just slightly stiller than the rest. Bright present-day daylight. The quiet is shared, not Mateo's alone. Keep Mateo exactly as the sheet.
 ```
 
 ### #20 · The Tray Arrives (core image)
 **Attach:** `Mateo` + `White_Tray` + `Modern_School`
 ```
-16:9. A white tray sliding into frame and set in front of Mateo — the person placing it is never shown (hand off-frame). Mateo just beginning to look up at it, the busy room soft behind him. Bright present-day daylight. Keep Mateo as the sheet.
+ONE 16:9 frame: a white lunch tray sliding into frame from the edge and set on the table in front of Mateo — the hand or person placing it is NEVER shown. Mateo is just beginning to look up at it, the busy room soft behind him. Bright, cool-clean present-day daylight. The mercy is quiet, the giver invisible — the hand is the audience. Hidden relief, never dramatic. Keep Mateo exactly as the sheet.
 ```
 
 ### #21 · Mateo Eats
 **Attach:** `Mateo` + `White_Tray` + `Modern_School`
 ```
-16:9. Mateo eating from the white tray — small careful bites, a little warmth returning; the full room soft behind him. Bright present-day daylight, a touch warmer. Keep Mateo as the sheet.
+ONE 16:9 frame: Mateo eating from the white tray — small, careful bites, a little warmth returning to him; the full room soft and warm behind him. Backpack still on. Bright present-day daylight, the frame a touch warmer now. Quiet relief, not joy — careful, like he's not sure it will last. Keep Mateo exactly as the sheet.
 ```
 
 ### #22 · The Wide Pull-Back
 **Attach:** `Modern_School` + `Mateo`
 ```
-16:9 WIDE: the full room of kids eating, Mateo one small figure among many. Soft, simplified background kids. Bright present-day daylight.
+ONE 16:9 WIDE frame: the full room of kids eating, Mateo one small figure among many — a room full of kids we never got to meet. Soft, simplified background children, alive but not competing. Bright present-day daylight. The quiet scale of it — how many there are. Keep Mateo (red hoodie) findable in the crowd.
 ```
 
 ---
@@ -171,10 +169,10 @@
 **Attach per face:** A `Mateo`+`Modern_School` · B `The_BOY`+`80s_School`+`Teal_Tray` · C `The_MAN`+`Giving_Machine`+`Eastside_1`
 ```
 Three tight 16:9 face close-ups, matched in head-size and framing so they cross-dissolve cleanly:
-A) Mateo, eating and looking up; bright present-day.
-B) The Boy, looking up from his tray; warm sepia.
-C) The Man at the machines; night glow.
-Keep each one exactly as their sheet.
+A) MATEO — eating and looking up; modern cafeteria, bright present-day daylight.
+B) THE BOY — looking up from his tray; old cafeteria, warm sepia.
+C) THE MAN — at the machines, lit by warm machine-glow against the night.
+Match the head-size and framing across all three. Keep each one exactly as their sheet.
 ```
 
 ---
