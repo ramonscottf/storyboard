@@ -31,7 +31,7 @@ Three tall cherry-red GIVING MACHINES stand together, their illuminated faces gl
 
 DOUG, a kind man in his late sixties, white-bearded, in a flat cap and tan coat, stands beside the machines as a volunteer host.
 
-A MAN approaches — mid-forties, lean, worn olive coat, grey knit cap, a few weeks of beard. He carries himself carefully, like someone used to being looked at. His eyes are a warm hazel.
+A MAN approaches — 30s–40s, lean, an olive hoodie under an open coat, a blue backpack on his shoulders, light stubble. He carries himself carefully, like someone used to being looked at.
 
 
 THE MAN
@@ -55,12 +55,12 @@ Let's get two, then. Somebody did this for me.
 
 INT. CAFETERIA (1980s) — FLASHBACK — DAY
 
-Warm sepia light. A BOY, eight years old, sits alone at the end of a long table. Brown hair, the same warm hazel eyes as the Man. From off-frame, a lunch tray slides in front of him. He looks up — surprised, then quietly relieved. We never see who placed it.
+Warm sepia light. A BOY, eight years old, sits alone at the end of a long table. Brown hair, an olive sweater, and the same blue backpack the Man carries. From off-frame, a teal lunch tray slides in front of him. He looks up — surprised, then quietly relieved. We never see who placed it.
 
 
 MATCH CUT TO:
 
-The Man's hazel eyes at the machines. The same eyes. He was that boy.
+The Man at the machines — the same olive top, the same blue backpack on his shoulder. He was that boy.
 
 
 NARRATOR (V.O.)

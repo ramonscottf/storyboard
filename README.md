@@ -14,7 +14,7 @@ Cloudflare edge with no version control (classic deploy drift). Now fixed.
 ## What it is
 
 A single Cloudflare Worker that serves both the API and the frontend. Reviewers
-sign in via magic link (allow-listed emails), browse the 22-shot board, generate
+sign in via magic link (allow-listed emails), browse the 24-shot board, generate
 and pick winning images per shot, and leave comments.
 
 - **Auth:** magic link → email via `mail.fosterlabs.org/send`. Allow-list in

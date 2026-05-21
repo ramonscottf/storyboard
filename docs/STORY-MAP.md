@@ -15,7 +15,7 @@ Everything in the film serves that sentence. If a shot or a line doesn't, it's c
 
 ## What's wrong with the current cut (and it's only "wrong" the way a good draft is wrong)
 
-1. **The flashback is designed but never shown.** "The Boy — Flashback (1980s)" is a defined character with "hazel eyes that echo The Lunch Angel's eyes." He has no shot. The man *says* "Someone did that for me when I was a kid" (#6) and we cut away. We are narrating the keystone instead of showing it.
+1. **The flashback is designed but never shown.** "The Boy — Flashback (1980s)" is a defined character with the same clothes and backpack that echo The Lunch Angel's. He has no shot. The man *says* "Someone did that for me when I was a kid" (#6) and we cut away. We are narrating the keystone instead of showing it.
 2. **The two halves are stapled, not fused.** Christmas legend → dissolve → Mateo today. The tie-in is mechanical ("His story is the reason we tell this one"). The audience is *told* they connect.
 3. **The strongest, most current material is buried in one line.** The reason kids don't eat — families so afraid of being noticed that hunger feels safer than help — is the gut-punch. Right now it's half of shot #16. It should be the emotional core of the back half.
 
@@ -38,7 +38,7 @@ The rhyme that makes it art: the Lunch Angel is described as "a man used to bein
 ### Movement I — THE LEGEND (then)  ·  ~0:00–1:32  ·  Act 1 visuals locked
 The Ogden night. Doug. The stranger who doesn't look like a donor. "$10 feeds a kid for a week." He walks away. The boots. The folded $20. *"Let's get two, then. Somebody did this for me."* He walks into the lights and we never learn his name.
 
-**THE KEYSTONE ADD — at #6, The Recognition:** when he says the line, we *cut to it.* A 1980s cafeteria. A boy, eight, alone at a table. A tray slides in from off-frame. He looks up. We hold one beat on the boy's hazel eyes — then back to the man's hazel eyes at the machines. Same eyes. Same kid. *Now* "Someone did that for me" is shown, not said.
+**THE KEYSTONE ADD — at #6, The Recognition:** when he says the line, we *cut to it.* A 1980s cafeteria. A boy, eight, alone at a table. A teal tray slides in from off-frame. He looks up. We hold one beat on the boy — his olive sweater, his blue backpack — then back to the man at the machines, the same backpack on his shoulder. Same kid. *Now* "Someone did that for me" is shown, not said.
 > This is the hinge of the whole film. It is also the shot the canon was already built for and forgot to schedule.
 
 ### Movement II — THE SAME TABLE (now)  ·  ~1:32–2:12

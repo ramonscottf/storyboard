@@ -21,8 +21,8 @@ Motivated, restrained camera; in-world motion; **no gimmick reveals** — no cur
 ## Character wardrobe = the recognition engine (locked 2026-05-21)
 
 - **Mateo = RED hoodie, GREEN backpack, dark eyes** — present day, modern cafeteria. Visually his own person.
-- **The Boy = GREEN crewneck, BLUE backpack, hazel eyes** — 1980s flashback, old cafeteria.
-- **The Man = GREEN hoodie, the SAME BLUE backpack, hazel eyes** — Ogden night. He carries the backpack he had as the Boy.
+- **The Boy = GREEN crewneck, BLUE backpack, brown hair** — 1980s flashback, old cafeteria.
+- **The Man = GREEN hoodie, the SAME BLUE backpack, light stubble** — Ogden night. He carries the backpack he had as the Boy. (Recognition is the wardrobe + pack, NOT eye color — hazel retired 2026-05-21.)
 - The green + the blue backpack are the match-cut device: when we cut Man→Boy (#6→#7) and in the loop (#23), the color + pack land the recognition in a single frame, before the face registers.
 
 ## The 24-shot build
@@ -49,13 +49,13 @@ Frame key: **LOCKED** = winner exists · **REFRESH** = exists but predates final
 - Motion: Doug turns to the Man, gestures to a card on the machine; Man follows the gesture. Omni lip-sync on Doug.
 - Audio: *Doug:* "This one feeds a kid for a week. Ten dollars buys a child their school lunch."
 
-**6 · The Recognition · 0:38–0:46 · REFRESH** (tight on the Man's face — hazel eyes)
+**6 · The Recognition · 0:38–0:46 · REFRESH** (tight on the Man's face)
 - Motion: his gaze lowers; a flicker of memory crosses; very slow push to the eyes; hold. (Cut hinge → #7.)
 - Audio: *Man (quiet):* "Somebody did that for me once."
 
-**7 · The Boy — Flashback (1980s) · 0:43–0:46 · COMPOSITE — KEYSTONE** (Boy green/hazel + old cafeteria + tray asset)
-- Frame: start = Boy alone at the table, empty space, tray entering frame edge; end = tray placed, Boy looking up. Let Omni interpolate the slide. Warm sepia.
-- Motion: tray slides in from off-frame; Boy looks up; hold one beat on his hazel eyes (match the Man's). ~3s.
+**7 · The Boy — Flashback (1980s) · 0:43–0:46 · COMPOSITE — KEYSTONE** (Boy green sweater + blue backpack + old cafeteria + TEAL tray asset)
+- Frame: start = Boy alone at the table, empty space, a TEAL tray entering frame edge; end = tray placed, Boy looking up. Let Omni interpolate the slide. Warm sepia.
+- Motion: a teal tray slides in from off-frame; Boy looks up; hold one beat — his green sweater + blue backpack match the Man's, landing the recognition. ~3s.
 - Audio: — (silence/ambient — let the eyes land).
 
 **8 · He Walks Away · 0:46–0:52 · LOCKED**
@@ -108,9 +108,9 @@ Frame key: **LOCKED** = winner exists · **REFRESH** = exists but predates final
 - Motion: text settles simply (gentle, no gimmick).
 - Audio: *Narrator:* "Ten dollars buys a week. Forty, a month. Three hundred sixty dollars buys a child a year of lunches they would not otherwise eat."
 
-**20 · The Tray Arrives · 2:12–2:20 · COMPOSITE — core image** (Mateo red + tray asset; the giving hand ALWAYS off-frame)
+**20 · The Tray Arrives · 2:12–2:20 · COMPOSITE — core image** (Mateo red + WHITE/cream tray asset; the giving hand ALWAYS off-frame)
 - Frame: start = empty space before Mateo; end = tray placed, Mateo looking up. Hand never enters — the hand is the audience.
-- Motion: tray slides in from off-frame; Mateo looks up; carefully concealed relief.
+- Motion: a white tray slides in from off-frame; Mateo looks up; carefully concealed relief.
 - Audio: *Narrator:* "Somebody slides a tray in front of him. He doesn't see who. He never will. // That's the point."
 
 **21 · Mateo Eats · 2:20–2:28 · REFRESH** (Mateo red)
