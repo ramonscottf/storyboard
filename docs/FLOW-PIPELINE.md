@@ -36,7 +36,7 @@ Two cafeterias = two eras = two different children. This is story logic, not sty
 | Modern (bright, airy, "Nourish · Learn · Thrive") | Present day | **Mateo** | **white / cream** | bright, hopeful, cool-clean daylight |
 | Old (warm golden, institutional) | 1980s flashback | **The Boy** (the Man's younger self) | **teal** | warm sepia memory tone |
 
-Mateo is present-day → modern cafeteria. The Boy is the 1980s flashback → old cafeteria. Never put Mateo in the old room.
+Mateo is present-day → modern cafeteria. The Boy is the 1980s flashback → old cafeteria. Never put Mateo in the old room. **The two cafeterias are the SAME school, remodeled (2026-05-21) — see STORY-MAP "THE SAME SCHOOL."** Compose #7 and #17 match-framed (same camera/table/angle) so the room morphs around an unchanged hungry kid; keep shared bones (windows-left, back serving line, front-left utensil caddy).
 
 **Recognition (changed 2026-05-21):** the Boy↔Man match is carried by WARDROBE + the BLUE BACKPACK (olive top, same pack, same hair) — NOT eye color. Hazel-eye matching is retired. See CHARACTERS.md. Mateo is deliberately distinct: red/rust hoodie, green backpack, curly hair, dark eyes.
 

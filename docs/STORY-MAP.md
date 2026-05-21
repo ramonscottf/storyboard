@@ -69,11 +69,24 @@ The pull-back: Mateo is one figure in a room full of Mateos we never met. And th
 
 ---
 
+## THE SAME SCHOOL — one building, two eras (added 2026-05-21)
+
+The 1980s cafeteria and the present-day cafeteria are the **same school, remodeled.** The Boy went hungry here; decades later Mateo goes hungry here too. The building got nicer; the hunger never left. This is what makes the film feel **ongoing** — not a one-time story but a recurring condition the institution renovated around. The aspirational banners ("Nourish · Learn · Thrive," "One School · One Community · One Future") do quiet ironic work hanging over a kid who isn't eating — let them sit, never underline them.
+
+**FELT, NEVER NAMED.** No caption, no "same school," no "30 years later." How the audience feels it:
+- **Same bones, new surfaces.** Keep the room geometry across both eras — windows on the left, serving line on the back wall, the utensil caddy in the front-left corner (already in BOTH plates). The remodel changes ceiling/floor/finish/light; the bones rhyme.
+- **Match-frame the lonely beats.** Compose #7 (Boy) and #17 (Mateo) from the SAME camera position, same table, same angle — so the room morphs around an unchanged situation: same posture, same empty spot, decades apart.
+- **#15 transition is the reveal.** The 1980s room dissolves into the same room remodeled while the camera holds — the building ages up under the cut; the hungry kid stays put.
+- **Era grade keeps them distinct.** Sepia-past vs bright-now (+ the kids' palettes: Boy olive/blue, Mateo red/green) means "same room" reads as THEN vs NOW — never the same moment, never the same kid.
+
+**GUARD:** keep the Man's giving at the Giving Machines (Act 1), NOT the school. The same-school link is resonance for the audience, not a plot beat. Never have the Man revisit the school — that over-literalizes it.
+
 ## Decisions — LOCKED 2026-05-19
 
 1. ✅ Flashback built as a SEEN beat — shot **#7**.
 2. ✅ Fear register: **evoke, never name**.
 3. ✅ Ending: **loop made explicit** — shot **#23** (three-face match-cut).
+4. ✅ **Same school, two eras** (2026-05-21) — the cafeterias are one building, remodeled; felt via shared bones + match-framed lonely beats (#7/#17 same camera) + the #15 age-up dissolve. Never named.
 
 *Build status: structure + VO lift applied to live D1 (24 shots). Next: generate #7 still → build #23 comp → write all motion prompts. See SHOTLIST.md.*
 
