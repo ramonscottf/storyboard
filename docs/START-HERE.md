@@ -54,5 +54,5 @@
 - Narrator V.O. voice (the most important voice) — not built. Doug's voice — not built (build in Flow / Lyria pipeline).
 - Fact-check the "1 in 7 / unpaid lunch balance" stat (shot #18) before final.
 - daviskids.org/lunch-angels landing page — not built.
-- Confirm Scott's Google AI tier covers Omni Flash + Lyria 3 Pro.
+- ✅ Tier confirmed 2026-05-21: Scott is on Google AI **Ultra** (covers Omni Flash, Nano Banana Pro, Lyria 3 Pro).
 - Re-test cel-on-watercolor consistency in Omni (1–2 shot test) before committing the whole film.

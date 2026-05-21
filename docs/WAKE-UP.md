@@ -56,7 +56,7 @@ All five characters are built and locked in Google Flow:
 - Narrator V.O. voice (most important voice) — not built. Doug's voice — not built.
 - Fact-check the "1 in 7 / unpaid lunch balance" stat (shot #18) before final.
 - daviskids.org/lunch-angels landing page — not built.
-- Confirm Scott's Google AI tier covers Omni Flash + Lyria 3 Pro.
+- ✅ Tier confirmed 2026-05-21: Google AI **Ultra** (covers Omni Flash, Nano Banana Pro, Lyria 3 Pro).
 - Re-test cel-on-watercolor consistency in Omni (1–2 shot test) before committing the whole film.
 
 That's it. Read START-HERE, build #7, go. You've got this. Be the man, Beer Can.

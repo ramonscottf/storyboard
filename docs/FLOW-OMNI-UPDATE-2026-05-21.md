@@ -29,4 +29,4 @@ New: finalize stills → Omni Flash for motion (identity/voice held, conversatio
 
 ## Open / to verify
 - 1–2 shot Omni test: does it hold the cel-on-watercolor look in motion vs. the old composite path? Recommended before committing the whole film.
-- Confirm Scott's Google AI subscription tier covers Omni Flash + Lyria 3 Pro (features vary by tier/region).
+- ✅ Tier confirmed: Scott is on Google AI **Ultra** — covers Omni Flash, Nano Banana Pro, Lyria 3 Pro.
