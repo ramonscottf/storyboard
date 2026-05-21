@@ -64,7 +64,7 @@ New finish order:
 1. Finalize the locked/needed STILLS (see SHOTLIST.md / FLOW-SHOTS.md — #7 flashback, tight isolating framings, #23 three-face crops). Cafeterias + village + characters are LOCKED.
 2. Bring stills into Omni Flash as ingredients; direct motion conversationally, identity/voice held.
 3. Score in **Flow Music (Lyria 3 Pro)** — section-by-section under the VO. (Replaces the depleted ElevenLabs path for the music bed.)
-4. Assemble; VO (Narrator first, then Doug); SFX; end card.
+4. Assemble; **VO via ElevenLabs (final, end-to-end)** laid under in the edit — Flow voices are scratch only; see FLOW-VOICES.md (note: ElevenLabs quota depleted, top up first). SFX; end card.
 
 Also live and useful:
 - **Flow Agent** (free to all) — batch-edit across assets (e.g., soften the Man everywhere, apply a fix to every plate), brainstorm, organize/rename the library.

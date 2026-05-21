@@ -2,6 +2,16 @@
 
 *Created 2026-05-21. Flow's default voices are too clean, too bright, too happy — they're tuned for assistants. The fix: in Edit Voice, pick a base voice for the TIMBRE, then use the **Voice Performance** field to direct the delivery (lower, slower, weathered, restrained, breath, no brightness). Paste the Sample Dialogue line to audition it in context, then Save New Voice.*
 
+## DECISION (2026-05-21): final VO = ElevenLabs, end-to-end
+The narrator is the backbone and never appears on screen — pure VO. **Final voice work is done in ElevenLabs** (Scott's established, controllable pipeline; same as the Transformer series), exported as clean audio and laid under the animatic in the edit. Flow's voices are **scratch/temp only** — fine for timing the animatic, replaced by ElevenLabs finals. This decouples VO from picture: iterate a line without touching the video; full control of pacing and texture.
+
+Implications:
+- **Frame the 5 dialogue beats (#5, #6, #10, #11, #13) so a mouth isn't square to camera** — over-shoulder, profile, looking-down, or the line over a reaction. This suits the quiet, looking-away register anyway, and removes any need for lip-sync. Omni then animates breath/body/small motion, not mouths. So ALL voices (narrator + dialogue) can go to ElevenLabs.
+- ⚠️ **ElevenLabs quota is DEPLETED** — top it up before the final VO pass. (Build the animatic on Flow scratch voices meanwhile.)
+- **Music is a separate decision** (Lyria in Flow, or Suno/Kie.ai) — needn't match the VO tool.
+
+The Flow recipes below still apply as scratch tracks (and translate directly into ElevenLabs voice-design / Voice Performance prompts).
+
 ## The principle (fight "clean / happy")
 In every Voice Performance, push toward: **low, unhurried, weathered, intimate, restrained.** Push away from: bright, upbeat, chipper, announced, slick, sentimental. The feeling lives UNDER the words — never let the voice perform the emotion on top of them.
 
