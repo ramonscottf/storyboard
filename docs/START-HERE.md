@@ -51,7 +51,7 @@
 - Domain: **daviskids.org/lunch-angels** (free, in script). Do NOT buy the $995 lunchangels.com.
 
 ## Open threads (not blocking)
-- Narrator V.O. voice (the most important voice) — not built. Doug's voice — not built (build in Flow / Lyria pipeline).
+- Narrator V.O. + Man + Doug + child voices: tuning recipes specced in FLOW-VOICES.md (base + Voice Performance + sample line); not yet finalized in Flow. Narrator is the backbone.
 - Fact-check the "1 in 7 / unpaid lunch balance" stat (shot #18) before final.
 - daviskids.org/lunch-angels landing page — not built.
 - ✅ Tier confirmed 2026-05-21: Scott is on Google AI **Ultra** (covers Omni Flash, Nano Banana Pro, Lyria 3 Pro).

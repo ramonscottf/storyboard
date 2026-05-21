@@ -53,7 +53,7 @@ All five characters are built and locked in Google Flow:
 - Domain = **daviskids.org/lunch-angels** (free, in script). Do NOT buy the $995 .com.
 
 ## 7. Open threads (not blocking)
-- Narrator V.O. voice (most important voice) — not built. Doug's voice — not built.
+- Voices: tuning recipes in FLOW-VOICES.md (Narrator/Man/Doug/child — base + Voice Performance + sample). Not yet finalized in Flow. Narrator is the backbone; consider a real kid for the cold-open line.
 - Fact-check the "1 in 7 / unpaid lunch balance" stat (shot #18) before final.
 - daviskids.org/lunch-angels landing page — not built.
 - ✅ Tier confirmed 2026-05-21: Google AI **Ultra** (covers Omni Flash, Nano Banana Pro, Lyria 3 Pro).
