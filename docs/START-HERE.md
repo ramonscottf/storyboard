@@ -19,6 +19,7 @@
 5. **CHARACTERS.md** — the 5 characters' bible + build status + paste-ready prompts. **Recast locked 2026-05-21** — read "THE RECOGNITION ENGINE" at the top.
 6. **FLOW-OMNI-UPDATE-2026-05-21.md** — what Google I/O 2026 changed for us (Omni Flash, Agent, Tools, Lyria), with sources.
 7. **FLOW-SHOTS.md** — the per-shot frame + motion + audio build list, all 24 drafted against the Omni mechanic. The bridge from locked art to a 3:00 film; this is the actual build plan.
+8. **CHATGPT-PROMPTS.md** — paste-ready ChatGPT prompts for every still (Scott generates stills in ChatGPT/GPT Pro; motion goes to Flow Omni). The day-to-day generation doc.
 
 ## SUPERSEDED — do NOT follow
 - `FLOW-STYLE-LOCK-v2.md` (big anime eyes — wrong)

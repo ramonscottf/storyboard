@@ -2,6 +2,8 @@
 
 *This is the bridge from "pile of locked art" to "a 3:00 film." It pairs the locked SHOTLIST.md with the new Flow video mechanic (post Google I/O 2026). Motion prompts were 0/24; this drafts all 24.*
 
+> **STILLS workflow (locked 2026-05-21):** Scott generates the frames in **ChatGPT (GPT Pro)** — he prefers the look — by attaching the locked asset sheets. Paste-ready ChatGPT prompts for every shot live in **CHATGPT-PROMPTS.md**. Those stills then become start/end frames for **Flow Omni Flash** motion (the motion prompts below). Stills = ChatGPT; motion = Omni.
+
 ## How video is made in Flow now (post I/O 2026 — verified 2026-05-21)
 
 The May 19 2026 update changed the answer, and it's in our favor:
@@ -53,7 +55,7 @@ Frame key: **LOCKED** = winner exists · **REFRESH** = exists but predates final
 - Motion: his gaze lowers; a flicker of memory crosses; very slow push to the eyes; hold. (Cut hinge → #7.)
 - Audio: *Man (quiet):* "Somebody did that for me once."
 
-**7 · The Boy — Flashback (1980s) · 0:43–0:46 · COMPOSITE — KEYSTONE** (Boy green sweater + blue backpack + old cafeteria + TEAL tray asset)
+**7 · The Boy — Flashback (1980s) · 0:43–0:46 · COMPOSITE — KEYSTONE** (Boy green sweater + blue backpack + old cafeteria + TEAL tray asset) — ✅ STILL GENERATED 2026-05-21 in ChatGPT. FIX: first pass reintroduced the presidential-seal flag; edit to US flag only.
 - Frame: start = Boy alone at the table, empty space, a TEAL tray entering frame edge; end = tray placed, Boy looking up. Let Omni interpolate the slide. Warm sepia.
 - Motion: a teal tray slides in from off-frame; Boy looks up; hold one beat — his green sweater + blue backpack match the Man's, landing the recognition. ~3s.
 - Audio: — (silence/ambient — let the eyes land).
