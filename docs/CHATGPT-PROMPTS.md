@@ -1,6 +1,6 @@
 # Lunch Angels — ChatGPT image prompts (the generation workhorse)
 
-*Rewritten 2026-05-21 with Scott's locked asset filenames baked into every shot. Workflow: **stills = ChatGPT (GPT Pro), motion = Flow Omni Flash.** For each frame: attach the listed files, generate, then feed the still into Flow Omni as a start/end frame (motion prompts live in FLOW-SHOTS.md). The same attach-lists work in Flow if you reference assets there instead.*
+*Rewritten 2026-05-21 (v2 — SIMPLIFIED). Lesson learned generating #3: the attached sheets and plates already carry the entire look. Long style descriptions ("watercolor, cel-on-top, small eyes, NOT photoreal…") FIGHT the references and push the result off-model. **New rule: prompts describe ACTION + CAMERA + ERA LIGHT only. The attached images carry the style.** Workflow unchanged: stills = ChatGPT (GPT Pro), motion = Flow Omni (FLOW-SHOTS.md).*
 
 ---
 
@@ -17,182 +17,169 @@
 | `White_Tray` | White/cream lunch tray — **present day** only |
 | `80s_School` | 1980s cafeteria plate (plain US flag) |
 | `Modern_School` | Modern cafeteria plate ("Nourish · Learn · Thrive") |
-| `Westside_1` `Westside_2` `Westside_3` `Eastside_1` `Eastside_2` | Night-market street plates (eye-level) — world + watercolor style |
-| `Westside_Entrance` | Night-market gated entrance — good for approach/establishing |
+| `Westside_1/2/3` `Eastside_1/2` | Night-market street plates (eye-level) — world + style |
+| `Westside_Entrance` | Night-market gated entrance — approach/establishing |
 | `Market_Aerial` | Night-market top-down aerial — establishing wide |
-| `Carousel` `Shop` | Night-market plates with carousel / stall foreground — atmospheric framing |
+| `Carousel` `Shop` | Night-market plates with carousel / stall foreground |
 
-**Night plates are interchangeable** — any `Westside_*` / `Eastside_*` works as the world+style anchor for a machine scene; pick by framing. The recommended one per shot is just a default.
+**Night plates are interchangeable** — pick by framing; the one listed per shot is just a default.
 
 ---
 
 ## QUICK INGREDIENTS TABLE
 | Shot | Attach |
 |---|---|
-| #3 Doug at the Machines | `Doug` + `Giving_Machine` + `Westside_1` |
+| #3 Doug at Machines | `Doug` + `Giving_Machine` + `Westside_1` |
 | #4 The Approach | `The_MAN` + `Westside_Entrance` + `Giving_Machine` |
 | #5 Two-Shot | `The_MAN` + `Doug` + `Giving_Machine` + `Eastside_1` |
-| #6 The Recognition | `The_MAN` + `Eastside_1` |
+| #6 Recognition | `The_MAN` + `Eastside_1` |
 | #7 The Boy (flashback) | `The_BOY` + `Teal_Tray` + `80s_School` |
 | #10 The Bill | `The_MAN` + `_20` + `Doug` + `Eastside_1` |
 | #11 Doug's Reaction | `Doug` + `Eastside_1` |
 | #12 The Pause | `The_MAN` + `Giving_Machine` + `Eastside_1` |
 | #13 Let's Get Two | `The_MAN` + `Doug` + `Giving_Machine` + `Eastside_1` |
 | #1 Cold Open | `Mateo` + `Modern_School` |
-| #16 Mateo at the Table | `Mateo` + `Modern_School` |
-| #17 The Empty Space | `Mateo` + `Modern_School` |
-| #18 The Other Kids | `Mateo` + `Modern_School` |
-| #20 The Tray Arrives | `Mateo` + `White_Tray` + `Modern_School` |
+| #16 Mateo at Table | `Mateo` + `Modern_School` |
+| #17 Empty Space | `Mateo` + `Modern_School` |
+| #18 Other Kids | `Mateo` + `Modern_School` |
+| #20 Tray Arrives | `Mateo` + `White_Tray` + `Modern_School` |
 | #21 Mateo Eats | `Mateo` + `White_Tray` + `Modern_School` |
-| #22 The Wide Pull-Back | `Modern_School` + `Mateo` |
-| #23 Three Faces | A: `Mateo`+`Modern_School` · B: `The_BOY`+`80s_School`+`Teal_Tray` · C: `The_MAN`+`Giving_Machine`+`Eastside_1` |
-
-Establishing / transition beats (#2, #8, #9, #14, #15) use the night-market plates as-is — no character generation needed.
+| #22 Wide Pull-Back | `Modern_School` + `Mateo` |
+| #23 Three Faces | A `Mateo`+`Modern_School` · B `The_BOY`+`80s_School`+`Teal_Tray` · C `The_MAN`+`Giving_Machine`+`Eastside_1` |
 
 ---
 
-## GLOBAL RULES — apply to every prompt
-- **Always say 16:9.** ChatGPT defaults to square otherwise.
-- **Two layers:** the character is a clean, soft 2D cel-animation cartoon (very few lines, no texture, small simple eyes — never big anime eyes); the room/world is a loose hand-painted watercolor. Character crisper than the painted background.
-- **Re-attach the character's sheet every time** they appear — don't let ChatGPT draw them from memory. If the painting style wanders, the attached night/cafeteria plate is also your style anchor.
-- **Era grades:** Movement I (night market) = cold lavender-blue winter NIGHT, warm pooled glow. Flashback #7 = warm SEPIA 1980s. Movement II (modern cafeteria) = bright, cool-clean PRESENT-DAY daylight.
-- **Tray colors:** `Teal_Tray` = 1980s (#7). `White_Tray` = present day (#20, #21).
-- **The giver's hand is ALWAYS off-frame** in #7 and #20 — the hand is the audience; never show a person placing the tray.
-- **Wardrobe (recognition engine):** Man = olive hoodie + blue backpack (open dark coat may layer for the cold, keep the pack visible). Boy = olive crewneck + the SAME blue backpack. Mateo = red/rust hoodie + green backpack + curly hair (his own kid). Doug = navy fur-collar parka.
-- **Giving Machines:** brand-accurate, ~15% corner anchor, never centered. Overlay the real wordmark in post for readable text.
-
-## THE TWO BIG CRAFT RULES (read before the cafeteria shots)
-- **CROWDED, NOT EMPTY (present day).** Mateo's loneliness is being *unseen in a full room*, not alone in an empty one. Busy cafeteria, every other kid has a tray — he is the ONLY one sharp and in focus; everyone else soft, semi-silhouette, slightly out of focus.
-- **SAME SCHOOL, TWO ERAS (felt, never named).** The 1980s and modern rooms are the same school, remodeled. Keep the permanent **bones** in every cafeteria shot: windows on the LEFT, serving line on the BACK wall, utensil caddy in the FRONT-LEFT corner. **Match-frame #7 (Boy) and #17 (Mateo):** same camera, table, angle — the room morphs around an unchanged hungry kid. Flashback empties the room (memory); present fills it (indifference).
+## THE ONLY RULES (everything else, the images handle)
+- **Always say 16:9.**
+- **"Keep [character] exactly as the attached sheet"** — one short line, so it doesn't redraw them.
+- **Era light, in a few words:** night market = *cold blue winter night, warm glow*; flashback #7 = *warm sepia 1980s*; modern = *bright present-day daylight*.
+- **Hand off-frame** in #7 and #20 — never show who places the tray.
+- **Tray + wardrobe are handled by WHICH FILE you attach** — teal vs white tray, olive+blue Man/Boy vs red+green Mateo. Don't re-describe them.
+- **Machines ~15% to one side, not centered** (only worth saying on wide machine shots).
+- **#7 and #17 share a camera** (the match-frame) — say "same camera as #7/#17".
+- **Crowded, not empty** for the modern cafeteria — Mateo the only one in focus.
 
 ---
 
-## MOVEMENT I — the night market (Ogden, cold winter night)
+## MOVEMENT I — the night market
 
-### #3 · Doug at the Machines · COMPOSITE
-**Attach:** `Doug` + `Giving_Machine` + `Westside_1` (night street = world + style)
+### #3 · Doug at the Machines
+**Attach:** `Doug` + `Giving_Machine` + `Westside_1`
 ```
-Attaching: (1) DOUG in his navy fur-collar parka — keep him exactly consistent; (2) the LIGHT THE WORLD GIVING MACHINE — keep it brand-accurate (cherry-red body, glowing grid of donation cards, wordmark); (3) a watercolor night-market street — this is the world AND the painting style, match it. Make ONE 16:9 illustration: Doug standing beside a row of three glowing red Giving Machines on a snowy cobblestone night-market street, breath fogging, warm light pooling on the wet ground. The machines sit toward one side at about 15% of the frame, NOT centered; the market stalls and string lights fill the rest. Cold lavender-blue winter night, warm glow from the machines and stalls, soft falling snow. Doug is a clean cel character on the loose watercolor world. Tender, still.
-```
-
-### #4 · The Approach · REFRESH
-**Attach:** `The_MAN` + `Westside_Entrance` (or any street plate) + `Giving_Machine`
-```
-Attaching: (1) THE MAN — olive-green hoodie, blue backpack on both shoulders, light stubble — keep him exact; an open dark winter coat over the hoodie is fine, but keep the blue backpack visible; (2) a watercolor night-market street (world + style); (3) the Giving Machine. ONE 16:9 frame: the Man seen from three-quarters BEHIND, walking slowly toward the glowing red Giving Machines across a snowy cobblestone market at night. He is in the mid-ground; the machines glow ahead toward the corner of the frame. Soft snow, breath-fog, string lights, warm light pooled on wet stone. Cold blue night, warm glow ahead. The Man is a crisp cel character on the loose watercolor world. Lonely but dignified.
+16:9. Doug standing beside the row of three glowing red Giving Machines on the snowy cobblestone market street, breath fogging, warm light on the wet ground. Machines toward one side (~15% of frame), not centered. Cold blue winter night. Keep Doug and the machines exactly as the attached sheets.
 ```
 
-### #5 · Two-Shot at the Machine · REFRESH
-**Attach:** `The_MAN` + `Doug` + `Giving_Machine` + `Eastside_1` (night plate, style)
+### #4 · The Approach
+**Attach:** `The_MAN` + `Westside_Entrance` + `Giving_Machine`
 ```
-Attaching THE MAN (olive hoodie, blue backpack), DOUG (navy parka), the GIVING MACHINE, and a night-market plate (style). ONE 16:9 frame: a two-shot — Doug and the Man standing together at a glowing red machine. Doug is turned slightly toward the Man, gesturing to a donation card on the machine face; the Man follows the gesture. Warm machine-glow lighting both faces against the cold blue night, soft snow, breath-fog. Both are clean cel characters on the watercolor world. Quiet, warm, equal — kinship, never pity.
-```
-
-### #6 · The Recognition · REFRESH (the hinge into #7)
-**Attach:** `The_MAN` + `Eastside_1` (for light/style)
-```
-Attaching THE MAN (olive hoodie, light stubble) — keep him exact. ONE 16:9 frame, TIGHT on the Man's face and shoulders, three-quarter. He is at the glowing machine; his gaze has lowered slightly, a flicker of memory crossing his face — quiet, inward. Warm machine-glow on one side of his face, cold blue night on the other. Soft blurred watercolor glow behind him. He is a crisp cel character. Keep his eyes SMALL and SIMPLE — a quiet inward moment, not a teary close-up. Tender, still, a held breath.
+16:9. The Man seen from three-quarters behind, walking slowly toward the glowing red machines across the snowy market. Cold blue night, warm glow ahead. Keep the Man exactly as the sheet, blue backpack visible.
 ```
 
-### #10 · The Bill · COMPOSITE
-**Attach:** `The_MAN` + `_20` + `Doug` + `Eastside_1` (night plate)
+### #5 · Two-Shot at the Machine
+**Attach:** `The_MAN` + `Doug` + `Giving_Machine` + `Eastside_1`
 ```
-Attaching THE MAN (olive hoodie), the FOLDED $20 BILL, DOUG (navy parka), and a night-market plate. ONE 16:9 frame: the Man's hand extending a folded twenty-dollar bill toward Doug at the glowing machine; the offered bill and the two figures are the focus. Warm machine glow, cold blue night, soft snow. Cel characters on the watercolor world. Keep the bill simple and folded — do not try to render fine currency detail.
-```
-
-### #11 · Doug's Reaction · REFRESH
-**Attach:** `Doug` + `Eastside_1` (night plate)
-```
-Attaching DOUG (navy parka) — keep him exact. ONE 16:9 frame on Doug at the glowing machine: a small apologetic expression, a slight head-shake, patting his coat pocket — he has no change for a twenty. Warm machine glow, cold blue night, breath-fog. Clean cel Doug on the watercolor world. Kind and a little rueful, never cold.
+16:9. Two-shot: Doug turned slightly toward the Man, gesturing to a card on the machine; the Man follows the gesture. Warm machine glow on both faces, cold night. Keep both exactly as their sheets.
 ```
 
-### #12 · The Pause · REFRESH
-**Attach:** `The_MAN` + `Giving_Machine` + `Eastside_1` (night plate)
+### #6 · The Recognition (the hinge into #7)
+**Attach:** `The_MAN` + `Eastside_1`
 ```
-Attaching THE MAN (olive hoodie). ONE 16:9 frame, fairly tight: the Man looking down at the folded bill in his hand, then up toward the glowing machine — the small beat where a decision forms. Quiet. Warm glow, cold night, soft snow. Cel man on watercolor. Stillness.
+16:9, tight on the Man's face and shoulders, three-quarter. His gaze lowers slightly — a quiet flicker of memory. Warm glow on one side, cold night on the other. Keep him exactly as the sheet; keep his eyes small and simple, not a teary close-up.
 ```
 
-### #13 · Let's Get Two · REFRESH (the title line)
-**Attach:** `The_MAN` + `Doug` + `Giving_Machine` + `Eastside_1` (night plate)
+### #10 · The Bill
+**Attach:** `The_MAN` + `_20` + `Doug` + `Eastside_1`
 ```
-Attaching THE MAN (olive hoodie, blue backpack) and DOUG (navy parka). ONE 16:9 frame: the Man pressing the folded bill forward toward Doug with the faintest warm resolve — the title-line moment ("Let's get two"). Doug receiving it. Warm machine glow on both, cold blue night, soft snow. Cel characters on the watercolor world. Quiet warmth and dignity.
+16:9. The Man's hand extending the folded twenty toward Doug at the machine; the bill and the two figures in focus. Warm glow, cold night. Keep them as their sheets; keep the bill simple and folded.
+```
+
+### #11 · Doug's Reaction
+**Attach:** `Doug` + `Eastside_1`
+```
+16:9 on Doug at the machine: a small apologetic look, a slight head-shake, patting his pocket — no change for a twenty. Warm glow, cold night. Keep Doug as the sheet.
+```
+
+### #12 · The Pause
+**Attach:** `The_MAN` + `Giving_Machine` + `Eastside_1`
+```
+16:9, fairly tight: the Man looking down at the folded bill, then up toward the machine — the beat before a decision. Warm glow, cold night. Keep him as the sheet.
+```
+
+### #13 · Let's Get Two (the title line)
+**Attach:** `The_MAN` + `Doug` + `Giving_Machine` + `Eastside_1`
+```
+16:9. The Man pressing the folded bill forward to Doug with quiet resolve; Doug receiving it. Warm glow on both, cold night. Keep them as their sheets.
 ```
 
 ---
 
-## FLASHBACK — #7 · The Boy (1980s, warm sepia, sparse MEMORY) · KEYSTONE
-**Attach:** `The_BOY` + `Teal_Tray` + `80s_School` — *#7 and #17 share a camera (same-school rule)*
+## FLASHBACK — #7 · The Boy (1980s) · KEYSTONE
+**Attach:** `The_BOY` + `Teal_Tray` + `80s_School`
 ```
-Attaching: (1) THE BOY — brown hair, olive-green crewneck sweater, blue backpack on both shoulders, small simple soft eyes; keep him exactly, as a clean soft 2D cel character. (2) the TEAL lunch tray — use this exact tray. (3) the 1980s CAFETERIA (plain US flag) — the room AND the watercolor style, match it.
-
-ONE 16:9 illustration. CAMERA: a straight, slightly low view looking down a long cafeteria table — the boy seated at the near-left end, the table running away to the right. Keep the room's permanent bones: windows on the LEFT wall, the serving line on the BACK wall, a utensil caddy in the FRONT-LEFT corner.
-
-This is a MEMORY: the room falls away — sparse, soft, dreamy, the far tables dissolving into warm haze, almost no other children visible. The boy sits alone, backpack on, hands folded in his lap, looking toward the empty table in front of him. A teal tray is just beginning to slide into frame from the right edge, held by no one we can see — never show the person or hand. Warm sepia 1980s memory light. Crisp cel boy on a loose, dissolving watercolor room. Intimate, still, lonely but dignified.
+16:9. Straight, slightly low view down a long cafeteria table; the boy at the near-left end, the table running away to the right. This is a MEMORY — the room falls away, sparse and dreamy, almost no other kids. He sits alone, backpack on, hands folded in his lap, looking at the empty table; a teal tray is just sliding into frame from the right edge, placed by no one we see (hand off-frame). Warm sepia 1980s light. Keep the boy and the tray as the sheets. Same camera as #17.
 ```
 
 ---
 
-## MOVEMENT II — the SAME school, remodeled (present day, bright daylight)
+## MOVEMENT II — the same school, present day
 
-### #1 · Cold Open · COMPOSITE (or open on black)
+### #1 · Cold Open
 **Attach:** `Mateo` + `Modern_School`
 ```
-Attaching MATEO (red/rust hoodie, green backpack, curly brown hair, dark eyes) and the MODERN cafeteria (style). ONE 16:9 frame, very tight and quiet: just Mateo's folded hands resting in his lap at the edge of a table, softly lit, the bright busy room blurred behind him. Intimate, almost abstract. Cel-on-watercolor, present-day soft daylight. (This beat may open on black with VO — this still is the fade-up target.)
+16:9, very tight: just Mateo's folded hands in his lap at the edge of a table, soft light, the busy room blurred behind him. Present-day soft daylight. Keep Mateo as the sheet.
 ```
 
-### #16 · Mateo at the Table · REFRESH (crowded room)
+### #16 · Mateo at the Table
 **Attach:** `Mateo` + `Modern_School`
 ```
-Attaching: (1) MATEO — red/rust hoodie, green backpack, curly brown hair, dark eyes — keep him exact; (2) the MODERN cafeteria (bright, "Nourish · Learn · Thrive," windows left, serving line back, utensil caddy front-left) — world + style. ONE 16:9 frame: Mateo at a table in a FULL, busy cafeteria — kids all around, eating and talking. Mateo is the one in focus: backpack on, hands folding in his lap, looking down, quiet and careful. Every other kid is softer, slightly out of focus, semi-silhouette — alive but not competing. Bright, cool-clean, hopeful daylight (NOT sepia — present day). Cel Mateo on the loose watercolor room. Still amid the noise.
+16:9. Mateo at a table in a full, busy cafeteria — kids all around eating and talking. Mateo is the only one in focus: backpack on, hands folding in his lap, eyes down; everyone else soft and slightly out of focus. Bright present-day daylight. Keep Mateo as the sheet.
 ```
 
-### #17 · The Empty Space · COMPOSITE — match-frame to #7
-**Attach:** `Mateo` + `Modern_School` — *SAME camera as #7*
-```
-Attaching MATEO (red hoodie, green pack, curly) and the MODERN cafeteria (style). ONE 16:9 frame. CAMERA: the SAME composition as the 1980s flashback — a straight, slightly low view down a long table, the kid at the near-left end, the table running away to the right; windows on the LEFT, serving line on the BACK wall, utensil caddy in the FRONT-LEFT corner. This is the SAME ROOM, remodeled and present-day.
-
-But now the room is FULL: kids everywhere, every other place has a lunch tray. Mateo sits at the near-left end with the empty space in front of him where a tray would be — backpack on, hands folded, eyes down. He is the ONLY one sharp and in focus; every other kid is soft, semi-silhouette, slightly out of focus — life happening around an island of stillness. Bright, cool-clean present-day daylight. Cel Mateo on the watercolor room. He is unseen in a full room — intimate, lonely, dignified. NOT empty, NOT a single word about it.
-```
-
-### #18 · The Other Kids · COMPOSITE
+### #17 · The Empty Space (match-frame to #7)
 **Attach:** `Mateo` + `Modern_School`
 ```
-Attaching MATEO and the MODERN cafeteria. ONE 16:9 frame: a slightly wider view of the full room — Mateo at his table, and scattered through the crowd a few OTHER quiet kids also sitting without trays. Keep Mateo findable (red hoodie). Most kids are soft, simplified, semi-silhouette — atmosphere. The few tray-less kids read just slightly stiller than the rest. Bright present-day daylight. Cel characters on watercolor. The quiet is shared, not Mateo's alone.
+16:9. SAME camera as #7 — straight, slightly low, down a long table, the kid at the near-left end, table running to the right. Same room, remodeled, present day. Now the room is FULL; every other place has a tray. Mateo at the near-left end with the empty space in front of him, backpack on, hands folded, eyes down — the only one in focus, everyone else soft. Bright present-day daylight. Keep Mateo as the sheet.
 ```
 
-### #20 · The Tray Arrives · COMPOSITE — core image
+### #18 · The Other Kids
+**Attach:** `Mateo` + `Modern_School`
+```
+16:9, slightly wider: Mateo at his table, and a few other quiet kids in the crowd also sitting without trays. Keep Mateo findable (red hoodie); most kids soft and simplified. Bright present-day daylight.
+```
+
+### #20 · The Tray Arrives (core image)
 **Attach:** `Mateo` + `White_Tray` + `Modern_School`
 ```
-Attaching MATEO (red hoodie, green backpack), the WHITE/cream lunch tray, and the MODERN cafeteria. ONE 16:9 frame: a white lunch tray sliding into frame from the edge, set on the table in front of Mateo — the hand or person placing it is NEVER shown. Mateo is just beginning to look up at it, the busy room soft behind him. Bright, cool-clean present-day daylight. Cel Mateo on the watercolor room. The mercy is quiet, the giver invisible (the hand is the audience). Hidden relief, never dramatic.
+16:9. A white tray sliding into frame and set in front of Mateo — the person placing it is never shown (hand off-frame). Mateo just beginning to look up at it, the busy room soft behind him. Bright present-day daylight. Keep Mateo as the sheet.
 ```
 
-### #21 · Mateo Eats · REFRESH
+### #21 · Mateo Eats
 **Attach:** `Mateo` + `White_Tray` + `Modern_School`
 ```
-Attaching MATEO and the white tray. ONE 16:9 frame: Mateo eating from the white tray — small, careful bites, a little warmth returning to him; the full room soft and warm behind. Backpack still on. Bright present-day daylight, the frame a touch warmer now. Cel Mateo on watercolor. Quiet relief, not joy — careful.
+16:9. Mateo eating from the white tray — small careful bites, a little warmth returning; the full room soft behind him. Bright present-day daylight, a touch warmer. Keep Mateo as the sheet.
 ```
 
-### #22 · The Wide Pull-Back · COMPOSITE
+### #22 · The Wide Pull-Back
 **Attach:** `Modern_School` + `Mateo`
 ```
-Attaching the MODERN cafeteria and MATEO. ONE 16:9 WIDE frame: the full room of kids eating, Mateo one small figure among many — a room full of kids we never met. Soft, simplified background children, alive but not competing. Bright present-day daylight. Cel-on-watercolor. The quiet scale of it.
+16:9 WIDE: the full room of kids eating, Mateo one small figure among many. Soft, simplified background kids. Bright present-day daylight.
 ```
 
 ---
 
-## MOVEMENT III — the loop
-
-### #23 · The Loop — Three Faces · (generate THREE matching close-ups)
-**Attach per face:** A) `Mateo` + `Modern_School` · B) `The_BOY` + `80s_School` + `Teal_Tray` · C) `The_MAN` + `Giving_Machine` + `Eastside_1`
+## MOVEMENT III — #23 · The Loop, Three Faces
+**Attach per face:** A `Mateo`+`Modern_School` · B `The_BOY`+`80s_School`+`Teal_Tray` · C `The_MAN`+`Giving_Machine`+`Eastside_1`
 ```
-A) MATEO — tight 16:9 face close-up, eating and looking up; modern cafeteria, bright daylight; red hoodie.
-B) THE BOY — tight 16:9 face close-up, looking up from his tray; old cafeteria, warm sepia; olive sweater + blue backpack.
-C) THE MAN — tight 16:9 face close-up at the machines; night glow; olive hoodie, the same blue backpack on his shoulder.
-Match head-size and framing across all three so they cross-dissolve cleanly. The olive top + blue backpack tie the Boy and the Man together; Mateo's red keeps him his own. Crisp cel characters on soft watercolor.
+Three tight 16:9 face close-ups, matched in head-size and framing so they cross-dissolve cleanly:
+A) Mateo, eating and looking up; bright present-day.
+B) The Boy, looking up from his tray; warm sepia.
+C) The Man at the machines; night glow.
+Keep each one exactly as their sheet.
 ```
 
 ---
 
-## Cards / edit-room (NOT ChatGPT character gen)
-- **#2 / #8 / #9 / #14** — establishing & connective night-market beats: use your locked plates as-is (`Westside_Entrance` or `Market_Aerial` for a wide; `Carousel` / `Shop` for foreground-framed atmosphere; any `Westside_*` / `Eastside_*` for street level). Regenerate only if you want them to match a tweaked look.
-- **#15 Transition** — the age-up dissolve: `80s_School` melts into `Modern_School` while the camera holds (same-school reveal). Assembled in the edit.
-- **#19 Numbers card** ("$10 a week · $40 a month · $360 a year") and **#24 Be the Someone** ("Be the someone. daviskids.org/lunch-angels") — text over a soft plate, assembled in the edit.
+## Cards / edit-room (no character gen)
+- **#2 / #8 / #9 / #14** — establishing/connective night beats: use the locked plates as-is (`Westside_Entrance` / `Market_Aerial` for wides; `Carousel` / `Shop` for foreground framing).
+- **#15 Transition** — `80s_School` dissolving into `Modern_School` under a held camera. In the edit.
+- **#19 Numbers** ("$10 a week · $40 a month · $360 a year") and **#24** ("Be the someone. daviskids.org/lunch-angels") — text over a soft plate, in the edit.
