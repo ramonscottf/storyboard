@@ -33,6 +33,21 @@ The rhyme that makes it art: the Lunch Angel is described as "a man used to bein
 
 ---
 
+## THE TWO GIVINGS — why the cafeteria mercy MUST be hidden (canon rule, do not break)
+
+There are two acts of giving in this film and they are NOT shot the same way, on purpose:
+
+- **The Man at the night market gives OPENLY.** He's an adult, it costs him only money, and being seen giving costs him nothing. His face is in frame. That's fine — generosity, freely chosen.
+- **The cafeteria mercy MUST be hidden.** The tray slides in from off-frame; we never see the hand's owner; no one says Mateo's name. This is not a style choice — it's the *logic of the stigma.* If Mateo saw who paid, the debt-shame his family taught him would make him REFUSE it (the hands-up "no, I'm okay"). The only food a frightened kid can accept is food that nobody makes him feel small for taking.
+
+**The invisible tray IS the policy argument.** In the real world the fix is: just cover it, silently, for every kid, so no child ever has to do the hands-up refusal — so no kid has to track whether today is covered or not. Sometimes it's paid, sometimes it isn't, and an eight-year-old can't keep score; the fear fills the gap. The film makes the emotional case for *just make it done.* The hidden giver on screen = the quiet, universal coverage we're raising money for.
+
+GUARD FOR ALL FUTURE SESSIONS: never write or storyboard a scene where an adult hands Mateo food face-to-face, is thanked, or is seen. That breaks the spell and contradicts the thesis. The giver is always invisible; the hand is the audience.
+
+The arc must resolve toward MERCY, not refusal: scared-to-take-it (the refusal beat, #18.5) → someone makes it safe (hidden) → he eats (#21). The refusal belongs EARLY. If Mateo refuses at the end, the film has no mercy in it.
+
+---
+
 ## The shape — three movements, one loop
 
 ### Movement I — THE LEGEND (then)  ·  ~0:00–1:32  ·  Act 1 visuals locked

@@ -24,6 +24,7 @@
 | 16 | 1:38–1:48 | scene | Mateo at the Table | ★ | *Narrator V.O.:* This is Mateo. He's eight. He's in a Davis County classroom right now. |
 | 17 | 1:48–1:56 | scene | The Empty Space | ◯ | *Narrator V.O.:* Mateo's family is behind. Not by much. By enough. They've decided — the way frightened people do — that it's safer for him to be hungry than seen. So he folds his hands, and waits out the lunch hour. He's good at it. |
 | 18 | 1:56–2:02 | scene | The Other Kids | ◯ | *Narrator V.O.:* He's not the only one. In Davis County, one in seven kids carries an unpaid lunch balance. |
+| 18.5 | 2:02–2:08 | scene | The Refusal (scared to take it) **NEW** | ★ | *Narrator V.O.:* When help comes, some of them flinch from it. A free tray means a name written down. They've learned that being hungry is safer than being seen. |
 | 19 | 2:02–2:12 | comp | The Numbers | ◯ | *On screen / Narrator:* Ten dollars buys a week. Forty, a month. Three hundred sixty dollars buys a child a year of lunches they would not otherwise eat. |
 | 20 | 2:12–2:20 | scene | The Tray Arrives | ◯ | *Narrator V.O.:* Somebody slides a tray in front of him. He doesn't see who. He never will. That's the point. |
 | 21 | 2:20–2:28 | scene | Mateo Eats | ★ | *Narrator V.O.:* No one called his parents. No one said his name. He just got to eat. |
