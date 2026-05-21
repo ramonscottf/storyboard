@@ -9,6 +9,13 @@
 - **Smallest move that feels alive wins.** Omni holds character + scene consistency beautifully when the camera is calm; it warps faces and melts crowds when you ask for big/fast moves. Gentle push-ins and drifts are the safe, cinematic default.
 - **First gen: run it close to as-written, see Omni's defaults, THEN correct.** Don't over-tune blind.
 
+## CRITICAL: THE STYLE-HOLD LINE (append to EVERY motion prompt)
+Omni re-interprets the whole frame to animate it. With no style instruction it drifts to its own default — room geometry shifts, wall text re-renders, the look warms up and goes generic (observed 2026-05-21 across a row of #16 gens). This is the INVERSE of the stills rule: stills carry their look in the attached image, but a motion prompt must EXPLICITLY tell Omni to hold the look while it moves. Always end the prompt with:
+
+> **Preserve the original image's hand-painted watercolor storybook style, colors, characters, and layout exactly — animate only the described motion; do not restyle, re-render, or change the look.**
+
+(Shorthand used below: each prompt ends with `[STYLE-HOLD]` — expand it to the full sentence above when you paste. It's the single most important line for consistency.)
+
 ## UNIVERSAL SAFETY ADD-ONS (append when needed)
 - Crowd morphing → `background figures move only slightly, no large motions.`
 - Hero hands/props drifting → `the boy's hands stay folded and still.` / `keep the tray steady.`
@@ -21,82 +28,82 @@
 
 ### #2 · Wide Establishing — the Village  (`Market_Aerial`)
 ```
-Slow aerial drift over the snowy market, gently descending toward the square. People move below in soft, out-of-focus little motions. String lights twinkle, snow falls slow. Calm, no fast moves. Distant figures move only slightly.
+Slow aerial drift over the snowy market, gently descending toward the square. People move below in soft, out-of-focus little motions. String lights twinkle, snow falls slow. Calm, no fast moves. Distant figures move only slightly. [STYLE-HOLD]
 ```
 
 ### #3 · Doug at the Machines  (Doug plate)
 ```
-Gentle push-in settling on Doug standing before the glowing machines. Crowd soft and out of focus behind him, snow drifting, warm lights flickering. Doug nearly still — a small breath, a slight settle. Camera calm.
+Gentle push-in settling on Doug standing before the glowing machines. Crowd soft and out of focus behind him, snow drifting, warm lights flickering. Doug nearly still — a small breath, a slight settle. Camera calm. [STYLE-HOLD]
 ```
 
 ### #4 · The Approach  (`The_MAN` from behind)
 ```
-Slow follow behind the Man as he walks toward the glowing machines across the snow; gentle forward drift. Snow falling, breath-fog, lights swaying faintly. Steady, unhurried.
+Slow follow behind the Man as he walks toward the glowing machines across the snow; gentle forward drift. Snow falling, breath-fog, lights swaying faintly. Steady, unhurried. [STYLE-HOLD]
 ```
 
 ### #5 · Two-Shot at the Machine
 ```
-Hold, near lock-off. Doug gestures slightly toward a card; the Man's eyes follow. Breath-fog between them, snow drifting, warm glow flickering. Tiny natural movements only — no big motion.
+Hold, near lock-off. Doug gestures slightly toward a card; the Man's eyes follow. Breath-fog between them, snow drifting, warm glow flickering. Tiny natural movements only — no big motion. [STYLE-HOLD]
 ```
 
 ### #6 · The Recognition (hinge into #7)
 ```
-Very slow push-in on the Man's face. His gaze lowers and goes inward — a small, quiet flicker of memory. Snow soft behind him, glow steady. Almost still; a held breath.
+Very slow push-in on the Man's face. His gaze lowers and goes inward — a small, quiet flicker of memory. Snow soft behind him, glow steady. Almost still; a held breath. [STYLE-HOLD]
 ```
 
 ### #10 · The Bill
 ```
-Hold steady. The Man's hand extends the folded twenty toward Doug; small, sincere. Snow drifting, glow warm. Keep the bill steady; minimal other motion.
+Hold steady. The Man's hand extends the folded twenty toward Doug; small, sincere. Snow drifting, glow warm. Keep the bill steady; minimal other motion. [STYLE-HOLD]
 ```
 
 ### #11 · Doug's Reaction
 ```
-Hold on Doug. A small apologetic look, a slight head-shake, a hand patting his pocket. Snow soft, glow warm. Gentle, rueful, calm camera.
+Hold on Doug. A small apologetic look, a slight head-shake, a hand patting his pocket. Snow soft, glow warm. Gentle, rueful, calm camera. [STYLE-HOLD]
 ```
 
 ### #12 · The Pause
 ```
-Near-still. The Man looks down at the bill, then up toward the machine — the beat before deciding. Snow drifting. Very small movement, calm camera.
+Near-still. The Man looks down at the bill, then up toward the machine — the beat before deciding. Snow drifting. Very small movement, calm camera. [STYLE-HOLD]
 ```
 
 ### #13 · Let's Get Two (title line)
 ```
-Hold. The Man presses the folded bill forward to Doug; Doug receives it, meeting his eyes. Warm glow, snow. Quiet, small motion only.
+Hold. The Man presses the folded bill forward to Doug; Doug receives it, meeting his eyes. Warm glow, snow. Quiet, small motion only. [STYLE-HOLD]
 ```
 
 ### #7 · The Boy (flashback) — KEYSTONE  (`The_BOY` plate)
 ```
-Almost completely still — a memory held. The faintest slow push-in. The teal tray slides gently into frame from the right, placed by no one we see; the boy looks up a touch. Warm sepia light, soft dust in the air. The boy's hands stay still. Camera barely moves.
+Almost completely still — a memory held. The faintest slow push-in. The teal tray slides gently into frame from the right, placed by no one we see; the boy looks up a touch. Warm sepia light, soft dust in the air. The boy's hands stay still. Camera barely moves. [STYLE-HOLD]
 ```
 
 ### #16 · Mateo at the Table  (`Mateo` plate)
 ```
-Slow, gentle push-in toward the boy at the table. Background children shift and eat with small idle movements, soft and out of focus. The boy is almost still — a small breath, a slight settle. Camera steady and calm; background figures move only slightly.
+Slow, gentle push-in toward the boy at the table. Background children shift and eat with small idle movements, soft and out of focus. The boy is almost still — a small breath, a slight settle. Camera steady and calm; background figures move only slightly. [STYLE-HOLD]
 ```
 
 ### #17 · The Empty Space (match-frame to #7)
 ```
-The faintest slow push-in, matching #7's stillness. The full room moves softly behind him, out of focus; the boy is still, hands folded, eyes down, the empty tray-spot in front of him. Calm camera; background figures move only slightly.
+The faintest slow push-in, matching #7's stillness. The full room moves softly behind him, out of focus; the boy is still, hands folded, eyes down, the empty tray-spot in front of him. Calm camera; background figures move only slightly. [STYLE-HOLD]
 ```
 
 ### #18.5 · The Refusal (scared to take it) — NEW
 ```
-A lunch tray is gently set on the table from the right by an unseen adult (only a hand and forearm enter frame). The boy startles slightly and lifts both hands in a small, polite refusal — leaning back a touch, eyes anxious. The hand withdraws. Background children eat, soft and unaware. Camera held still; small movements only. The hand and forearm are the only part of the giver ever seen.
+A lunch tray is gently set on the table from the right by an unseen adult (only a hand and forearm enter frame). The boy startles slightly and lifts both hands in a small, polite refusal — leaning back a touch, eyes anxious. The hand withdraws. Background children eat, soft and unaware. Camera held still; small movements only. The hand and forearm are the only part of the giver ever seen. [STYLE-HOLD]
 ```
 
 ### #20 · The Tray Arrives — core image
 ```
-A white tray slides gently into frame from the edge and is set in front of the boy — only nothing/where-a-hand-would-be; the giver is NEVER shown. The boy begins to look up at it. Busy room soft behind. Calm camera; keep the tray steady; the giver stays out of frame entirely.
+A white tray slides gently into frame from the edge and is set in front of the boy — only nothing/where-a-hand-would-be; the giver is NEVER shown. The boy begins to look up at it. Busy room soft behind. Calm camera; keep the tray steady; the giver stays out of frame entirely. [STYLE-HOLD]
 ```
 
 ### #21 · Mateo Eats
 ```
-Gentle hold with the faintest push-in. The boy takes small, careful bites; a little warmth returns. Full room soft and warm behind. Calm camera, small motion.
+Gentle hold with the faintest push-in. The boy takes small, careful bites; a little warmth returns. Full room soft and warm behind. Calm camera, small motion. [STYLE-HOLD]
 ```
 
 ### #22 · The Wide Pull-Back
 ```
-Slow pull-back / gentle rise from the boy to reveal the full room of kids eating. Soft, simplified background children with small idle motion. Calm, steady; background figures move only slightly.
+Slow pull-back / gentle rise from the boy to reveal the full room of kids eating. Soft, simplified background children with small idle motion. Calm, steady; background figures move only slightly. [STYLE-HOLD]
 ```
 
 ---
