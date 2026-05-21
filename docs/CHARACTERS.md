@@ -35,3 +35,43 @@ PALETTE: cherry red + warm gold glow against lavender-blue snowy night. PRESENCE
 ROLE: the child at the heart of the present-day story. Eight, a Davis County student, whose family is behind and afraid of attention, so he doesn't eat. He is not the Man and not the Boy — he is the NEXT one, the kid we feed today who could be the somebody who comes back. EMOTIONAL INTENT: not crying, not pitiful — QUIET. Patient. Careful. The kind of patient that doesn't belong on an eight-year-old; an eight-year-old practicing invisibility.
 
 AGE/BUILD: 8, real-proportioned. FACE: brown hair, DARK eyes (his own — distinct from the hazel thread), soft cheek blush, a small calm mouth-line. WARDROBE: a slightly oversized sweatshirt, ordinary. PALETTE: brighter, more saturated present-day daylight (NOT memory tone). POSTURE: backpack still on his shoulders, hands folded in his lap, looking down at the empty table where a tray would go.
+
+---
+
+## BUILD STATUS & TRIPTYCH PROMPTS (updated 2026-05-20)
+
+*Built in Flow's native Characters builder, Nano Banana 2, one at a time. Each prompt = the triptych template + the body/outfit fill below + Block B (shared cel-character style) from FLOW-STYLE-LOCK-v4.md. Render rule reminder: CEL characters on top of WATERCOLOR worlds — characters are NOT watercolor.*
+
+| Character | Status | Notes |
+|---|---|---|
+| Mateo | LOCKED | green crewneck, navy backpack, brown hair, dark eyes. The eye/style template the cast inherits. |
+| Doug | LOCKED | kind older man. Base: tan cardigan + blue collared shirt. Also a navy fur-collar parka version for the cold outdoor scene. |
+| The Man | CLOSE, not final | softer version on-model, but watch: tipping toward PITY (sad brows + patched clothes). Soften to "tired but dignified," lose the patches. Hazel eyes. |
+| The Boy | NOT BUILT — PRIORITY | must be built FROM the Man's face: younger, same hazel eyes, same bones. The recognition match-cut is the engine; nothing built yet reads as the Man's younger self. |
+| Giving Machines | LOCKED (as asset) | brand-accurate turnaround, treated as a droppable asset — see FLOW-PIPELINE.md. |
+
+Also generated but NOT in the core script: a curly-haired boy (red hoodie) and a girl (coral hoodie) — possible background classmates, not named roles. The curly boy is NOT the 1980s Boy (wrong eyes, modern dress).
+
+### Mateo — body/outfit fill (LOCKED)
+```
+Mateo — a small 8-year-old boy with a gentle soft build, short brown hair, a soft rounded face, and small simple warm dark-brown eyes, calm and quiet. He wears a slightly oversized olive-green crewneck sweatshirt, a navy backpack on both shoulders, simple trousers, and plain sneakers. [+ Block B]
+```
+Character Info (behavioral): quiet, careful, still; family behind on lunch money and afraid of being noticed, so he doesn't eat and doesn't draw attention; folds his hands, eyes down, waits out lunch; relief is small and hidden, never dramatic. Play stillness over big expressions.
+
+### The Man — body/outfit fill (refine: dignity, no grit)
+```
+The Man (the Lunch Angel) — a lean but gently-built man in his mid-to-late 40s, kind tired face, short soft dark beard lightly flecked grey, warm HAZEL eyes (small, simple). Simple dark-olive winter coat over a soft red-brown plaid shirt, grey knit beanie, worn (NOT patched) jeans, plain boots, small canvas shoulder bag. Show the hard year ONLY through soft tired kindness — never dirt, grit, texture, patches, or heavy detail. Gentle, dignified — someone's kind brother. [+ Block B]
+```
+Character Info: kind, soft-spoken, has known hard times; walks up to the machines, learns $10 feeds a kid a week, walks away, comes back and gives because someone once did it for him; quiet, humble, dignified, never bitter.
+
+### The Boy — build NEXT, from the Man's face
+```
+The Boy — the Lunch Angel as a child, age 8, 1980s. Take the Man's exact face younger: same warm HAZEL eyes (small, simple), same soft features and bone structure, brown hair. A slightly oversized plain hand-me-down shirt (1980s). Soft cheek blush; mouth just beginning to open into relief. Alone-at-a-table stillness. Warm sepia memory palette. [+ Block B]
+```
+Character Info: the Man, 35 years earlier — the kid a stranger once fed. His eyes must read as the SAME eyes as the Man; that recognition is the engine of the film.
+
+### Doug — body/outfit fill (LOCKED)
+```
+Doug — a warm dignified older gentleman, late 60s, kind easy smile, grey hair, soft minimal nose. Tan cardigan over a light-blue collared shirt, dark trousers, brown loafers. (Outdoor variant: navy fur-collar parka over the same.) [+ Block B]
+```
+Character Info: kind volunteer who hosts the Giving Machines; welcomes everyone as an equal, warmth never pity; witnesses the Man's gift and tells the story the rest of his life; warm, unhurried, leans in to listen, never looms.
