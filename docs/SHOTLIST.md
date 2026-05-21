@@ -36,7 +36,7 @@
 - Locked: 15/24
 - **Need generation:** #7 (the flashback boy — keystone), and the open Act-2 stills #17, #18, #19, #22.
 - **Comps (built in edit, no gen):** #15 transition, #19 numbers card, #23 the loop, #24 end card.
-- **Motion prompts:** 0/24 — next phase, written against this locked structure.
+- **Motion prompts:** drafted 24/24 in `FLOW-SHOTS.md` (frame + motion + audio per shot). Wardrobe recognition engine locked there too (Mateo=red, Boy/Man=green+blue backpack).
 
 ## Open items
 - **Fact-check** the '1 in 7 / unpaid lunch balance' figure (#18) against the real DEF/Davis number before final.

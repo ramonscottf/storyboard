@@ -1,5 +1,12 @@
 # Lunch Angels — Character Bible
 
+> **WARDROBE RECOGNITION ENGINE — locked 2026-05-21 (read first):**
+> - **Mateo = RED hoodie, GREEN backpack, dark eyes** (present day). His own person.
+> - **The Boy = GREEN crewneck, BLUE backpack, hazel eyes** (1980s flashback).
+> - **The Man = GREEN hoodie, the SAME BLUE backpack, hazel eyes** — he carries the backpack he had as the Boy.
+> - The green + blue backpack are the match-cut device (Man↔Boy at #6→#7 and the #23 loop). Mateo's red keeps him distinct. This supersedes the earlier "Mateo = green crewneck" note below.
+
+
 *Locked 2026-05-19. Five characters. Each has a canon description + a model-sheet render prompt in D1 (Flow Ingredient).*
 
 Render rule: cel-animation characters drawn on top of loose painted backgrounds (see STYLE-CANON.md). The Man and the Boy share **hazel eyes** — that recognition is the engine of the film. Mateo is distinct (dark eyes) — he's the *next* kid, not the same one.
