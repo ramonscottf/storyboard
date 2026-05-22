@@ -1,21 +1,31 @@
-# Lunch Angels — Flow Omni MOTION prompts (the animation companion)
+# Lunch Angels — MOTION prompts (the animation companion)
 
-*Created 2026-05-21. Companion to CHATGPT-PROMPTS.md (which makes the STILLS). This doc is for turning each locked still into MOTION in Google Flow Omni Flash.*
+*Created 2026-05-21, engine corrected 2026-05-22. Companion to CHATGPT-PROMPTS.md (which makes the STILLS). Turns each locked still into MOTION in Google Flow. ENGINE = Veo 3.1 Start/End frames (NOT Omni — see below). Filename kept as FLOW-OMNI-MOTION.md for link stability; content is Veo-first.*
 
-## HOW OMNI WORKS HERE (read first — this was root-caused 2026-05-22)
+## THE ENGINE: VEO 3.1 START/END FRAMES — NOT OMNI (locked 2026-05-22)
 
-**THE #1 RULE: animate FROM the saved image, not by attaching it into the prompt box.**
-On 2026-05-22 a batch of gens came back unusable — generic Christmas markets, a Coca-Cola machine where Doug should be, over-rendered aerials, two "policy" failures. Root cause: the still was being **attached into the create/prompt box**, which Omni treats as loose *reference/inspiration* — so it reinterprets (and on busy plates, repaints from scratch). The fix:
+**Use Veo 3.1 with Start frame + End frame. Omni is abandoned for this film.**
 
-1. Open the **saved still** in Images / your media (click into it).
-2. Use **"Animate" / "Add motion" / "Image to video" ON that image** — this binds the frame as the literal FIRST FRAME of the video.
-3. THEN type a SHORT motion line. When the image is the true source, it can't drift far — your frame IS frame one.
+The full journey (4 corrections in one day — documented so nobody repeats it):
+1. Attached still into the prompt box → Omni treated it as loose reference, repainted from scratch (Coca-Cola machines, generic markets).
+2. Animated FROM the saved image → world held better but the character morphed across the clip.
+3. Stacked the character sheets as references → Omni fused them into its own house style = PHOTOREAL. The flat 2D watercolor was "promoted" to 3D realism.
+4. **Switched to Veo 3.1 with Start/End frames → HELD PERFECTLY.** Watercolor style, characters, world all preserved.
 
-**Corollary (reverses the earlier note): once the image is the source, SHORTER prompts are better.** The long STYLE-HOLD paragraph below was a band-aid for the image-not-anchored problem. If you animate FROM the image, you mostly don't need it — describe only the move + "keep everything else unchanged." Keep STYLE-HOLD in your back pocket for stubborn gens, not as the default.
+WHY VEO WORKS AND OMNI DOESN'T: Omni reinterprets one image guided by text, and its video model defaults to photorealism — so it overrides a flat illustrated source. Veo with start+end frames INTERPOLATES between two real frames you supply. Both ends are pinned to your actual locked stills, so it physically cannot drift to realism or swap the character — the style is locked at both ends. The motion is generated *between* your art, not *over* it.
 
-- Still ONE image, no start/end interpolation in this build — so big journeys (aerial→Doug, #7↔#17 match-cut, #15 transition) are TWO-SHOT EDITS (see bottom).
-- **The aerial (#2) is retired as a motion shot.** It's too dense — Omni over-renders it every time. Use it as a STATIC opening beat; animate the Doug plate for the establisher instead.
-- Smallest move that feels alive wins. First gen: run short, see Omni's default, then nudge.
+### How to run a shot in Veo
+1. In the create panel choose **Video → Veo 3.1 (Quality)**.
+2. Set **Start frame = your locked still** for the beginning of the beat.
+3. Set **End frame = the still for the end of the beat** (a second still showing where the motion lands — e.g. tray placed, head turned, man one step closer).
+4. Keep clips SHORT (4s is the floor option and plenty). Prompt is a light nudge of the in-between motion only; the two frames do the heavy lifting.
+5. **Turn off audio** (settings → "return silent videos") — the "audio generation failed" error is just Veo trying to add sound; we don't want Veo audio, the mix is ElevenLabs in the edit.
+
+### You now need END-FRAME stills for motion beats
+This changes the still list: shots with real movement want a **start still AND an end still**. Most are cheap to make — re-generate the same frame with the change (tray now on the table; man one step closer; head turned; hands lowered). The match-cut #7↔#17 and the aerial→Doug establisher, which I previously called "edit-only two-shots," can now be REAL Veo interpolations if you give Veo the two end frames. (Aerial is still risky as a start frame — test it; if it over-renders, keep it static.)
+
+### Single-frame fallback
+If a beat truly has no movement (a held face), Veo can take just a start frame, or you add a gentle push-in in the EDITOR (Ken Burns) on the static still — that path keeps 100% style lock too.
 
 ## CRITICAL: THE STYLE-HOLD LINE (append to EVERY motion prompt)
 Omni re-interprets the whole frame to animate it. With no style instruction it drifts to its own default — room geometry shifts, wall text re-renders, the look warms up and goes generic (observed 2026-05-21 across a row of #16 gens). This is the INVERSE of the stills rule: stills carry their look in the attached image, but a motion prompt must EXPLICITLY tell Omni to hold the look while it moves. Always end the prompt with:
