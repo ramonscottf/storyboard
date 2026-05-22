@@ -2,12 +2,20 @@
 
 *Created 2026-05-21. Companion to CHATGPT-PROMPTS.md (which makes the STILLS). This doc is for turning each locked still into MOTION in Google Flow Omni Flash.*
 
-## HOW OMNI WORKS HERE (read first — saves regenerations)
-- **This Omni build animates ONE image + a text description.** It does NOT do start-frame→end-frame interpolation in this mode.
-- Therefore: **a motion prompt can only describe motion that stays inside ONE plate.** You CANNOT fly from the aerial down to Doug in one generation — those are two different images/cameras. Big camera journeys between two plates are a **TWO-SHOT EDIT**, not one gen.
-- **Describe MOTION ONLY.** Same discipline as the stills: the image carries the look; the words carry the movement. Do NOT re-describe watercolor/characters/wardrobe.
-- **Smallest move that feels alive wins.** Omni holds character + scene consistency beautifully when the camera is calm; it warps faces and melts crowds when you ask for big/fast moves. Gentle push-ins and drifts are the safe, cinematic default.
-- **First gen: run it close to as-written, see Omni's defaults, THEN correct.** Don't over-tune blind.
+## HOW OMNI WORKS HERE (read first — this was root-caused 2026-05-22)
+
+**THE #1 RULE: animate FROM the saved image, not by attaching it into the prompt box.**
+On 2026-05-22 a batch of gens came back unusable — generic Christmas markets, a Coca-Cola machine where Doug should be, over-rendered aerials, two "policy" failures. Root cause: the still was being **attached into the create/prompt box**, which Omni treats as loose *reference/inspiration* — so it reinterprets (and on busy plates, repaints from scratch). The fix:
+
+1. Open the **saved still** in Images / your media (click into it).
+2. Use **"Animate" / "Add motion" / "Image to video" ON that image** — this binds the frame as the literal FIRST FRAME of the video.
+3. THEN type a SHORT motion line. When the image is the true source, it can't drift far — your frame IS frame one.
+
+**Corollary (reverses the earlier note): once the image is the source, SHORTER prompts are better.** The long STYLE-HOLD paragraph below was a band-aid for the image-not-anchored problem. If you animate FROM the image, you mostly don't need it — describe only the move + "keep everything else unchanged." Keep STYLE-HOLD in your back pocket for stubborn gens, not as the default.
+
+- Still ONE image, no start/end interpolation in this build — so big journeys (aerial→Doug, #7↔#17 match-cut, #15 transition) are TWO-SHOT EDITS (see bottom).
+- **The aerial (#2) is retired as a motion shot.** It's too dense — Omni over-renders it every time. Use it as a STATIC opening beat; animate the Doug plate for the establisher instead.
+- Smallest move that feels alive wins. First gen: run short, see Omni's default, then nudge.
 
 ## CRITICAL: THE STYLE-HOLD LINE (append to EVERY motion prompt)
 Omni re-interprets the whole frame to animate it. With no style instruction it drifts to its own default — room geometry shifts, wall text re-renders, the look warms up and goes generic (observed 2026-05-21 across a row of #16 gens). This is the INVERSE of the stills rule: stills carry their look in the attached image, but a motion prompt must EXPLICITLY tell Omni to hold the look while it moves. Always end the prompt with:
