@@ -18,7 +18,7 @@ should not feel like a stock orchestral fanfare.
    black** into the film. **STATUS: keeper built (pending Scott's final ear-check).**
 2. **~5s intro theme** — brief branded title cue from the film's palette, lands into the
    black-screen child's voice. **STATUS: NOT BUILT YET.**
-3. **FILM SCORE** — under the Lunch Angels film. **STATUS: keeper = extended Take A (3:26).**
+3. **FILM SCORE** — under the film. **STATUS: keeper = `Lunch_Angels_Music_EXT2.mp3` (3:20)** — Scott's *original* score, edit-extended twice (no Suno taskId; original was never captured). Kara picks up ~2:30; +16s calm hold @2:44 holds the QR end-card. The fresh Suno takes are technically richer but didn't fit the cut.
 4. **OUTRO — ~30s somber→excited** — reverse bloom under Kara's "thanks + enjoy the show" +
    logo reveal. Warm-strings-soaring, NOT brass. **STATUS: NOT BUILT YET** (only the rejected
    fanfare exists).
@@ -28,9 +28,10 @@ should not feel like a stock orchestral fanfare.
 | File | Len | Role | Status |
 |---|---|---|---|
 | `_SOURCE_Lunch_Angels_Music_2-46.m4a` | 2:46 | the original score Scott had (his upload) | source |
+| `Lunch_Angels_Music_EXT2.mp3` | 3:20 | **FILM SCORE keeper (Scott's pick)** — his original score, splice-extended, +16s calm hold @2:44 for QR/Kara | **KEEPER** |
 | `Lunch_Angels_Score_A.mp3` | 2:36 | fresh score, take A | option |
 | `Lunch_Angels_Score_B.mp3` | 2:31 | fresh score, take B | option |
-| `Lunch_Angels_Score_A_Extended.mp3` | 3:26 | **FILM SCORE keeper** — A extended | keeper* |
+| `Lunch_Angels_Score_A_Extended.mp3` | 3:26 | fresh score, A extended (richer, but not chosen) | option |
 | `Gala_Countdown_90s.mp3` | 1:30 | **INTRO keeper** — fun countdown + whoosh→black | keeper* |
 | `DEF_Fanfare_A.mp3` | 0:21 | studio fanfare | REJECTED (wrong movie) |
 | `DEF_Fanfare_B.mp3` | 0:30 | studio fanfare | REJECTED (wrong movie) |
