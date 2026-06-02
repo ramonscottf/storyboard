@@ -1,102 +1,87 @@
-# Lunch Angels — Narrator VO Script (record this)
+# Lunch Angels — Narrator VO Script (LOCKED draft)
 
-*Created 2026-05-25. The words to record, in order — narrator-lead. Open is CLEAN: straight into the story, no framing device. Only two non-narrator voices survive: the CHILD (cold open) and THE MAN (one line near the close). Everything Doug and the Man's cash exchange said is now narration. Record narrator in ElevenLabs (Narrator — Lunch Angels voice, see FLOW-VOICES). Delivery: low, unhurried, weathered, intimate, withholding — the Transformer-novella register. Let lines land and sit. Never bright, never sentimental.*
+*Updated 2026-06-01. Supersedes the 2026-05-25 generic-narrator version (now stale).*
+*This is the Doug-narrator recast with Kara Toone's gala notes folded in. "Locked draft" =
+the agreed working version from the 06-01 session; treat Kara's final sign-off as the gate
+before recording.*
 
-*Workflow: record these as separate clips so you can time each against picture. Timecodes are TARGETS to feel out, not locked — adjust to the cut.*
+## Structure
+- **DOUG narrates Movement I (the legend)** — real volunteer this happened to; first-person.
+- **KARA (DEF Director) takes over ~2:02** for the present-day turn + CTA.
+- The Child has the cold-open line. The Man's lines are quoted *inside Doug's* narration.
 
 ---
 
-## COLD OPEN — black screen (CHILD voice, not narrator)
+## COLD OPEN — black screen (CHILD voice)
 > **CHILD (V.O.):** I didn't eat lunch today. My mom said I shouldn't.
+*Cut the old choral voices + Lunch Angel icon — straight into the story. (beat, then Doug.)*
 
-*Delivery: small, plain, matter-of-fact — not sad, not performing. A real ~8-year-old if at all possible. Holds on black, then we fade into the village.*
+## MOVEMENT I — THE LEGEND (DOUG, first person)
+> *[Older, educated, white man from Utah]* Let me tell you a story. About something I saw.
+>
+> *[warm, scene-setting]* I was volunteering down in Ogden. Little Christmas village, snow
+> coming down soft, the whole square strung with light. And that season, we were hosting the
+> Giving Machines.
+>
+> *[gentle — room for the shots of him approaching]* I'm standing there, stamping my feet to
+> stay warm, and I see this man come up the row. Late. Quiet out. He didn't look like he had
+> much — tired, the kind of tired a person wears for years, not days. But he'd walked a long
+> way to get there, and he came right up to those machines like he'd been thinking about it
+> the whole walk.
+>
+> *[~1:00]* You know how those machines glow red in the snow. And they told him — ten dollars
+> feeds a child **school lunch** for a week.
+>
+> *[quieter, leaning in]* He stood there a second, and he said something. Almost to himself.
+> He said, "Somebody did that for me once."
+>
+> *[~1:24 — the boy memory]* And I swear to you, for just a moment he wasn't a grown man
+> standing in the snow. He was a boy again. Eight years old. Unable to pay for lunch, and too
+> ashamed to ask for help. But he had a lunch angel — someone who cared enough to step in and
+> pay when he couldn't. A tray slid in front of him from a hand he never saw, and he never
+> found out who.
+>
+> *[slow]* That was the whole point.
+>
+> *[~1:37 — the exchange]* He went to pay, and all he had was a folded twenty. The lunch was
+> ten, and there was no change. He looked at that bill a long second — like he knew it was
+> everything. And he said, "Let's get two, then."
+>
+> *[the button]* Then he walked back into the night. I never did learn his name.
 
-*(beat of silence — let it sit before the narrator comes in)*
+## HANDOFF ~2:02 — KARA (DEF Director, present day, over modern-cafeteria visuals)
+> When Davis Education Foundation was featured in the Giving Machines, we knew school lunch
+> debt was real. But we didn't understand how quietly some families were suffering. Some
+> parents, afraid of being noticed, have even told their children not to eat at school so a
+> negative balance won't draw attention.
+> It doesn't have to be this way.
+> We need an army of Lunch Angels — people willing to pay down lunch balances and help prevent
+> new debt. We invite you to bring relief to families and hope to students. Become a Lunch
+> Angel today.
 
----
+## END CARD
+> Be the someone. · daviskids.org/lunch-angels
 
-## MOVEMENT I — THE LEGEND (Narrator)
-
-> A few years ago, on a cold night in Ogden, a man walked up to the Giving Machines.
-
-*(he approaches; Doug is there)*
-
-> An old man told him what ten dollars could do. A week of lunches, for a child who'd otherwise go without.
-
-*(the Man looks at the card — the memory crosses his face — then the ONE surviving Man line:)*
-
-> **THE MAN (quiet):** Somebody did that for me once.
-
-*(MATCH CUT to the 1980s flashback — the boy, the teal tray sliding in — hold on narration-free picture; let the image carry it)*
-
-> He tried to pay. He offered a folded twenty. There was no change for it.
-
-*(beat)*
-
-> So he bought two.
-
-*(the Man walks into the lights and is gone)*
-
-> He walked back into the night, and we never learned his name.
-
----
-
-## MOVEMENT II — THE SAME TABLE (Narrator)
-
-*(dissolve: village light → bright cafeteria daylight; the full tray becomes an empty space; Mateo waits, hands folded)*
-
-> Mateo's family is behind. Not by much. By enough.
-
-*(beat)*
-
-> They've decided — the way frightened people do — that it's safer for him to be hungry than seen. So he folds his hands, and waits out the lunch hour.
-
-*(beat)*
-
-> He's good at it.
-
-*(NUMBERS card over the scene — narrator reads, even and plain:)*
-
-> Ten dollars buys a week. Forty, a month. Three hundred sixty dollars buys a child a year of lunches they would not otherwise eat.
-
----
-
-## MOVEMENT III — THE HAND YOU DON'T SEE (Narrator)
-
-*(a tray slides in from off-frame — the hand never shown — Mateo looks up, hidden relief)*
-
-> Somebody slides a tray in front of him. He doesn't see who. He never will.
-
-*(beat)*
-
-> That's the point.
-
-*(pull back — Mateo one child among many)*
-
-> No one called his parents. No one said his name. He just got to eat.
-
-*(THE LOOP — three faces matched on the eyes: Mateo now, the Boy in the 80s, the Man at the machines)*
-
-> Three children. The same mercy.
-
-*(beat — the last line lands alone)*
-
-> The kid you feed is the one who comes back.
+*Picture-only under Kara (no VO): the present-day tray sliding in to Mateo, the three-face
+loop, and the $10 / $40 / $360 numbers card.*
 
 ---
 
-## END CARD — warm darkness
-> **ON SCREEN (no VO, or narrator soft):** Be the someone. · daviskids.org/lunch-angels
+## OUTRO / TRANSITION VO — KARA (after the film, into the logo reveal)
+*The "thanks + enjoy the show" beat. Warm gratitude lifting into premiere-night energy; the
+logo lands on "presents…". Pair with the (not-yet-built) ~30s somber→excited outro cue.*
+> *[warm, sincere]* Thank you. From all of us — thank you for being here, and for being the
+> someone.
+> *[a turn, lighter]* Now… we didn't bring you to a movie theater by accident.
+> *[bright, building]* So sit back, settle in —
+> *[music swells · DEF logo reveal, studio-style]* **Davis Education Foundation presents…**
 
----
+## VOICE CASTING
+- **Doug** — real volunteer, narrates Movement I (first person). The legend's voice.
+- **Kara** — DEF Director, narrates the present-day turn + CTA + outro. First person ("I"/"we").
+- **Child** — one line, cold open. Real kid if possible.
+- **The Man** — no separate VO; his two lines are quoted inside Doug's narration.
+- Boy, Mateo, Doug-on-screen-after-handoff: no lines.
 
-## VOICE SUMMARY
-- **Narrator** — carries the whole film. Voice: Narrator — Lunch Angels (ElevenLabs). The backbone.
-- **Child** — ONE line, cold open only. Real kid if possible.
-- **The Man** — ONE line: "Somebody did that for me once." The only adult voice; lands because it's the only one that isn't the narrator.
-- **Doug** — now SILENT. His "ten dollars feeds a kid" is converted to narration. (Retired as a speaking voice; he's still on screen, just not heard.)
-- Boy, Mateo, Giving Machines — no lines.
-
-## TIMING / NEXT
-- Record narrator clips separately; drop under the assembled picture; feel out pacing.
-- The film's spine is the VO — once timing is locked against the cut, THEN build the soundtrack to picture (Lyria or Suno/Kie.ai). Score comes last, to locked timing.
+## AUDIO
+Score + intro/outro architecture and all generation IDs: see `AUDIO-ARCHITECTURE.md`.
