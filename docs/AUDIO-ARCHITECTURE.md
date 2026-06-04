@@ -28,6 +28,7 @@ should not feel like a stock orchestral fanfare.
 | File | Len | Role | Status |
 |---|---|---|---|
 | `_SOURCE_Lunch_Angels_Music_2-46.m4a` | 2:46 | the original score Scott had (his upload) | source |
+| `Lunch_Angels_QR_Hold_30s.mp3` | 0:30 | **QR-scan hold** — played after the film under the QR card; built from EXT2's resolved passage, same key, soft resolve | keeper |
 | `Lunch_Angels_Music_EXT2.mp3` | 3:20 | **FILM SCORE keeper (Scott's pick)** — his original score, splice-extended, +16s calm hold @2:44 for QR/Kara | **KEEPER** |
 | `Lunch_Angels_Score_A.mp3` | 2:36 | fresh score, take A | option |
 | `Lunch_Angels_Score_B.mp3` | 2:31 | fresh score, take B | option |
